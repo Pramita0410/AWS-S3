@@ -1,0 +1,1554 @@
+,Job_id,Job_title,Employement_num,Employment_per_1000_jobs,Median_hourly_wage,Mean_hourly_wage,Annual_mean_wage,Job_Location
+0,1,Management Occupations,"89,09,910",63.242,49.25,59.31,"1,23,370",Alabama
+1,2,Top Executives,"32,29,990",22.926,47.46,57.94,"1,20,520",Alabama
+2,3,Chief Executives,"2,00,480",1.423,86.31,102.41,"2,13,020",Alabama
+3,4,General and Operations Managers,"29,84,920",21.187,47.1,55.41,"1,15,250",Alabama
+4,5,Legislators,"44,590",0.316,30.64,35.64,"57,110",Alabama
+5,6,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","8,38,050",5.948,61.62,69.77,"1,45,130",Alabama
+6,7,Advertising and Promotions Managers,"22,520",0.16,61.13,68.68,"1,42,860",Alabama
+7,8,Marketing and Sales Managers,"7,32,490",5.199,62.18,70.48,"1,46,600",Alabama
+8,9,Marketing Managers,"2,78,690",1.978,64.92,73.77,"1,53,440",Alabama
+9,10,Sales Managers,"4,53,800",3.221,61.3,68.46,"1,42,390",Alabama
+10,11,Public Relations and Fundraising Managers,"83,040",0.589,57.62,63.85,"1,32,800",Alabama
+11,12,Public Relations Managers,"59,850",0.425,60.47,66.35,"1,38,000",Alabama
+12,13,Fundraising Managers,"23,190",0.165,48.47,57.4,"1,19,400",Alabama
+13,14,Operations Specialties Managers,"21,16,020",15.019,61.13,67.26,"1,39,900",Alabama
+14,15,Administrative Services and Facilities Managers,"3,25,850",2.313,47.73,52.69,"1,09,590",Alabama
+15,16,Administrative Services Managers,"2,24,620",1.594,48.16,54.34,"1,13,030",Alabama
+16,17,Facilities Managers,"1,01,230",0.719,47.08,49.03,"1,01,970",Alabama
+17,18,Computer and Information Systems Managers,"4,85,190",3.444,76.45,78.33,"1,62,930",Alabama
+18,19,Financial Managers,"6,81,070",4.834,63.32,73.78,"1,53,460",Alabama
+19,20,Industrial Production Managers,"1,92,270",1.365,49.59,56.62,"1,17,780",Alabama
+20,21,Purchasing Managers,"69,310",0.492,61.13,64.71,"1,34,590",Alabama
+21,22,"Transportation, Storage, and Distribution Managers","1,44,640",1.027,47.22,50.76,"1,05,580",Alabama
+22,23,Compensation and Benefits Managers,"15,330",0.109,61.31,67.05,"1,39,470",Alabama
+23,24,Human Resources Managers,"1,66,530",1.182,60.69,65.67,"1,36,590",Alabama
+24,25,Training and Development Managers,"35,830",0.254,57.76,61.92,"1,28,800",Alabama
+25,26,Other Management Occupations,"27,25,860",19.348,46.94,51.55,"1,07,230",Alabama
+26,27,"Farmers, Ranchers, and Other Agricultural Managers","5,220",0.037,35.12,37.71,"78,440",Alabama
+27,28,Construction Managers,"2,84,750",2.021,47.55,52.02,"1,08,210",Alabama
+28,29,Education and Childcare Administrators,"5,37,100",3.812,45.68,47.73,"99,280",Alabama
+29,30,"Education and Childcare Administrators, Preschool and Daycare","56,430",0.401,22.75,25.87,"53,800",Alabama
+30,31,"Education Administrators, Kindergarten through Secondary","2,74,710",1.95,30.64,37.64,"1,02,650",Alabama
+31,32,"Education Administrators, Postsecondary","1,55,990",1.107,46.59,53.49,"1,11,260",Alabama
+32,33,"Education Administrators, All Other","49,970",0.355,43.54,45.54,"94,730",Alabama
+33,34,Architectural and Engineering Managers,"1,87,100",1.328,73.25,76.43,"1,58,970",Alabama
+34,35,Food Service Managers,"2,10,680",1.495,28.58,30.75,"63,970",Alabama
+35,36,Entertainment and Recreation Managers,"21,460",0.152,30.42,36.75,"76,430",Alabama
+36,37,Gambling Managers,"3,660",0.026,36.98,42.88,"89,190",Alabama
+37,38,"Entertainment and Recreation Managers, Except Gambling","17,800",0.126,29.81,35.48,"73,810",Alabama
+38,39,Lodging Managers,"35,920",0.255,28.57,32.58,"67,770",Alabama
+39,40,Medical and Health Services Managers,"4,36,770",3.1,48.72,57.61,"1,19,840",Alabama
+40,41,Natural Sciences Managers,"74,760",0.531,66.3,75.05,"1,56,110",Alabama
+41,42,Postmasters and Mail Superintendents,"12,750",0.09,38.58,39.34,"81,820",Alabama
+42,43,"Property, Real Estate, and Community Association Managers","2,34,680",1.666,28.47,33.67,"70,030",Alabama
+43,44,Social and Community Service Managers,"1,56,400",1.11,35.58,36.92,"76,790",Alabama
+44,45,Emergency Management Directors,"10,320",0.073,36.89,40.77,"84,800",Alabama
+45,46,Personal Service Managers,"20,060",0.142,29.02,35.75,"74,360",Alabama
+46,47,Funeral Home Managers,"12,710",0.09,35.58,39.86,"82,900",Alabama
+47,48,"Personal Service Managers, All Other","7,350",0.052,29.02,28.65,"59,580",Alabama
+48,49,"Managers, All Other","4,97,890",3.534,59.93,62.36,"1,29,710",Alabama
+49,50,Business and Financial Operations Occupations,"90,53,790",64.263,36.81,39.72,"82,610",Alabama
+50,51,Accountant,"61,52,960",43.673,36.56,38.64,"80,380",Alabama
+51,52,Attorney,"12,480",0.089,37.7,55.97,"1,16,410",Alabama
+52,53,Truck Driver,"4,39,020",3.116,30.51,34.88,"72,540",Alabama
+53,54,Data Analyst,"2,89,580",2.055,31.11,34.06,"70,850",Alabama
+54,55,Management Consultant,"2,78,140",1.974,31.29,34.11,"70,960",Alabama
+55,56,Engineer,"11,430",0.081,30.13,32.78,"68,180",Alabama
+56,57,Teacher,"3,34,340",2.373,34.45,36.45,"75,810",Alabama
+57,58,Psychologist,"2,08,950",1.483,31.33,35.45,"73,740",Alabama
+58,59,Stock Broker,"8,05,080",5.714,30.04,34.24,"71,210",Alabama
+59,60,Electrician,"7,40,830",5.258,29.95,34,"70,720",Alabama
+60,61,Pilot,440,0.003,22.97,26.16,"54,400",Alabama
+61,62,Investment Banker,"63,810",0.453,37.03,37.05,"77,070",Alabama
+62,63,Financial Advisor,"9,33,180",6.624,39.43,45.45,"94,530",Alabama
+63,64,Police,"1,89,320",1.344,37.03,38.09,"79,230",Alabama
+64,65,Registered Nurse,"7,43,860",5.28,45.43,47.32,"98,420",Alabama
+65,66,Management Occupations,"7,68,450",5.454,44.71,48.33,"1,00,530",Alaska
+66,67,Top Executives,"98,150",0.697,23.79,27.81,"57,850",Alaska
+67,68,Chief Executives,"82,080",0.583,29.17,31.19,"64,870",Alaska
+68,69,General and Operations Managers,"87,750",0.623,30.83,35.49,"73,810",Alaska
+69,70,Legislators,"3,36,030",2.385,29.6,32.51,"67,620",Alaska
+70,71,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","7,27,540",5.164,30.73,36.58,"76,080",Alaska
+71,72,Advertising and Promotions Managers,"10,30,330",7.313,35.9,38.1,"79,240",Alaska
+72,73,Marketing and Sales Managers,"29,00,840",20.59,37.16,41.99,"87,350",Alaska
+73,74,Marketing Managers,"13,18,550",9.359,37.14,40.37,"83,980",Alaska
+74,75,Sales Managers,"58,340",0.414,29.49,33.68,"70,050",Alaska
+75,76,Public Relations and Fundraising Managers,"47,440",0.337,38.43,40.5,"84,240",Alaska
+76,77,Public Relations Managers,"68,770",0.488,37.23,42.32,"88,030",Alaska
+77,78,Fundraising Managers,"7,16,930",5.089,39.29,51.13,"1,06,340",Alaska
+78,79,Operations Specialties Managers,"2,91,880",2.072,44.03,49.53,"1,03,020",Alaska
+79,80,Administrative Services and Facilities Managers,"2,63,030",1.867,45.27,57.67,"1,19,960",Alaska
+80,81,Administrative Services Managers,"1,07,690",0.764,36.73,38.43,"79,940",Alaska
+81,82,Facilities Managers,"54,320",0.386,48.08,53.18,"1,10,610",Alaska
+82,83,Computer and Information Systems Managers,"60,750",0.431,39.14,46.24,"96,180",Alaska
+83,84,Financial Managers,"3,71,400",2.636,29.82,37.52,"78,040",Alaska
+84,85,Industrial Production Managers,"31,230",0.222,22.87,24.25,"50,430",Alaska
+85,86,Purchasing Managers,"3,40,170",2.414,30.47,38.74,"80,570",Alaska
+86,87,"Transportation, Storage, and Distribution Managers","1,35,460",0.961,23.51,26.8,"55,750",Alaska
+87,88,Compensation and Benefits Managers,"52,270",0.371,27.3,30.38,"63,200",Alaska
+88,89,Human Resources Managers,"83,190",0.59,22.26,24.56,"51,080",Alaska
+89,90,Training and Development Managers,"1,23,200",0.874,35.21,38.64,"80,370",Alaska
+90,91,Other Management Occupations,"46,54,750",33.039,46.9,48.01,"99,860",Alaska
+91,92,"Farmers, Ranchers, and Other Agricultural Managers","43,89,910",31.159,46.84,47.89,"99,620",Alaska
+92,93,Construction Managers,"6,62,370",4.701,47.92,50.4,"1,04,840",Alaska
+93,94,Education and Childcare Administrators,"5,05,150",3.586,47.73,49.14,"1,02,210",Alaska
+94,95,"Education and Childcare Administrators, Preschool and Daycare","1,57,220",1.116,49.33,54.46,"1,13,270",Alaska
+95,96,"Education Administrators, Kindergarten through Secondary","30,840",0.219,63.22,68.58,"1,42,650",Alaska
+96,97,"Education Administrators, Postsecondary","8,30,510",5.895,27.84,29.11,"60,550",Alaska
+97,98,"Education Administrators, All Other","1,76,200",1.251,30.17,34.3,"71,350",Alaska
+98,99,Architectural and Engineering Managers,"6,54,310",4.644,23.93,27.72,"57,650",Alaska
+99,100,Food Service Managers,"6,21,900",4.414,47.44,49.25,"1,02,440",Alaska
+100,101,Entertainment and Recreation Managers,"1,68,830",1.198,57.94,58.01,"1,20,650",Alaska
+101,102,Gambling Managers,"85,870",0.609,46.5,46.42,"96,550",Alaska
+102,103,"Entertainment and Recreation Managers, Except Gambling","50,440",0.358,59.34,58.58,"1,21,840",Alaska
+103,104,Lodging Managers,"3,16,760",2.248,38.75,43.87,"91,250",Alaska
+104,105,Medical and Health Services Managers,"18,74,100",13.302,49.49,54.68,"1,13,720",Alaska
+105,106,Natural Sciences Managers,"1,52,610",1.083,44.71,46.46,"96,650",Alaska
+106,107,Postmasters and Mail Superintendents,"13,64,180",9.683,58.05,58.17,"1,20,990",Alaska
+107,108,"Property, Real Estate, and Community Association Managers","1,90,120",1.349,47.22,46.97,"97,710",Alaska
+108,109,Social and Community Service Managers,"84,820",0.602,37.03,39.09,"81,320",Alaska
+109,110,Emergency Management Directors,"82,380",0.585,38.41,45.9,"95,460",Alaska
+110,111,Personal Service Managers,"3,70,190",2.628,45.8,47.2,"98,180",Alaska
+111,112,Funeral Home Managers,"2,64,840",1.88,47.44,49.9,"1,03,800",Alaska
+112,113,"Personal Service Managers, All Other","23,040",0.164,50.91,60.24,"1,25,300",Alaska
+113,114,"Managers, All Other","1,770",0.013,51.97,54.05,"1,12,430",Alaska
+114,115,Business and Financial Operations Occupations,"98,700",0.701,39.59,46.07,"95,830",Alaska
+115,116,Accountant,"31,370",0.223,45.95,47.81,"99,450",Alaska
+116,117,Attorney,"1,05,980",0.752,48.52,52.24,"1,08,660",Alaska
+117,118,Truck Driver,"3,970",0.028,30.03,37.48,"77,960",Alaska
+118,119,Data Analyst,"24,36,520",17.294,38.39,44.1,"91,740",Alaska
+119,120,Management Consultant,"1,76,840",1.255,37.34,39.85,"82,880",Alaska
+120,121,Engineer,"1,17,830",0.836,38.16,42.98,"89,400",Alaska
+121,122,Teacher,"1,00,400",0.713,38.55,44.19,"91,900",Alaska
+122,123,Psychologist,"17,430",0.124,32.67,36.05,"74,980",Alaska
+123,124,Stock Broker,"59,000",0.419,29.78,33.59,"69,870",Alaska
+124,125,Electrician,"12,610",0.09,33.12,35.34,"73,510",Alaska
+125,126,Pilot,"46,390",0.329,29.62,33.12,"68,880",Alaska
+126,127,Investment Banker,"16,31,080",11.577,47.62,50,"1,04,000",Alaska
+127,128,Financial Advisor,"56,640",0.402,58.78,59.12,"1,22,970",Alaska
+128,129,Police,"1,120",0.008,39.73,41.99,"87,350",Alaska
+129,130,Registered Nurse,"17,190",0.122,46.83,48.57,"1,01,020",Alaska
+130,131,Management Occupations,"24,180",0.172,50.75,58.58,"1,21,840",Arizona
+131,132,Top Executives,"3,04,310",2.16,42.33,45.91,"95,490",Arizona
+132,133,Chief Executives,"73,750",0.523,61.62,65.5,"1,36,230",Arizona
+133,134,General and Operations Managers,"2,93,190",2.081,48.93,53.21,"1,10,670",Arizona
+134,135,Legislators,"1,86,020",1.32,48.28,51.87,"1,07,890",Arizona
+135,136,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","1,07,170",0.761,50.39,55.53,"1,15,490",Arizona
+136,137,Advertising and Promotions Managers,"42,660",0.303,46.55,48.18,"1,00,220",Arizona
+137,138,Marketing and Sales Managers,"3,16,820",2.249,45.82,45.92,"95,520",Arizona
+138,139,Marketing Managers,"22,870",0.162,47.62,47.93,"99,700",Arizona
+139,140,Sales Managers,"2,93,950",2.086,45.82,45.77,"95,200",Arizona
+140,141,Public Relations and Fundraising Managers,"7,380",0.052,44.89,47.03,"97,820",Arizona
+141,142,Public Relations Managers,"21,530",0.153,47.26,49.02,"1,01,950",Arizona
+142,143,Fundraising Managers,"2,78,240",1.975,45.82,46.64,"97,000",Arizona
+143,144,Operations Specialties Managers,"7,370",0.052,46.68,48.29,"1,00,450",Arizona
+144,145,Administrative Services and Facilities Managers,"12,670",0.09,57.87,58.54,"1,21,760",Arizona
+145,146,Administrative Services Managers,"22,100",0.157,62.91,70.06,"1,45,720",Arizona
+146,147,Facilities Managers,"1,51,940",1.078,48.38,51.83,"1,07,800",Arizona
+147,148,Computer and Information Systems Managers,"6,28,600",4.462,28.99,30.01,"62,420",Arizona
+148,149,Financial Managers,"1,85,200",1.315,28.99,29.66,"61,680",Arizona
+149,150,Industrial Production Managers,"1,01,310",0.719,29.01,29.14,"60,620",Arizona
+150,151,Purchasing Managers,"20,830",0.148,29.57,32.26,"67,090",Arizona
+151,152,"Transportation, Storage, and Distribution Managers","47,760",0.339,28.94,30.12,"62,650",Arizona
+152,153,Compensation and Benefits Managers,"15,300",0.109,26.08,28.04,"58,330",Arizona
+153,154,Human Resources Managers,"3,87,330",2.749,29.18,31.06,"64,600",Arizona
+154,155,Training and Development Managers,"10,900",0.077,35.37,35.34,"73,510",Arizona
+155,156,Other Management Occupations,"64,170",0.455,28.04,27.89,"58,000",Arizona
+156,157,"Farmers, Ranchers, and Other Agricultural Managers","1,01,450",0.72,30.6,33.21,"69,070",Arizona
+157,158,Construction Managers,"11,590",0.082,29.02,30.71,"63,880",Arizona
+158,159,Education and Childcare Administrators,"14,910",0.106,23.27,27.21,"56,590",Arizona
+159,160,"Education and Childcare Administrators, Preschool and Daycare","62,030",0.44,28.95,29.44,"61,230",Arizona
+160,161,"Education Administrators, Kindergarten through Secondary","40,180",0.285,29.07,30.47,"63,390",Arizona
+161,162,"Education Administrators, Postsecondary","8,500",0.06,29.01,30.19,"62,800",Arizona
+162,163,"Education Administrators, All Other","73,600",0.522,29.78,32.83,"68,290",Arizona
+163,164,Architectural and Engineering Managers,"56,070",0.398,22.55,23.95,"49,810",Arizona
+164,165,Food Service Managers,"12,73,640",9.04,34.97,38.81,"80,730",Arizona
+165,166,Entertainment and Recreation Managers,"3,04,980",2.165,38.53,44.8,"93,190",Arizona
+166,167,Gambling Managers,"31,920",0.227,35.66,38.45,"79,970",Arizona
+167,168,"Entertainment and Recreation Managers, Except Gambling","2,790",0.02,31.29,38.65,"80,390",Arizona
+168,169,Lodging Managers,"13,510",0.096,37.66,40.46,"84,150",Arizona
+169,170,Medical and Health Services Managers,"15,610",0.111,32.09,36.68,"76,290",Arizona
+170,171,Natural Sciences Managers,"1,17,460",0.834,39.75,45.18,"93,970",Arizona
+171,172,Postmasters and Mail Superintendents,"35,050",0.249,49.17,54.55,"1,13,460",Arizona
+172,173,"Property, Real Estate, and Community Association Managers","19,430",0.138,38.11,42.22,"87,820",Arizona
+173,174,Social and Community Service Managers,"15,930",0.113,31.08,33.8,"70,300",Arizona
+174,175,Emergency Management Directors,"47,050",0.334,39.68,43.27,"90,010",Arizona
+175,176,Personal Service Managers,"32,040",0.227,30.65,32.73,"68,080",Arizona
+176,177,Funeral Home Managers,"22,550",0.16,30.65,32.81,"68,230",Arizona
+177,178,"Personal Service Managers, All Other","9,500",0.067,30.82,32.56,"67,710",Arizona
+178,179,"Managers, All Other","1,16,740",0.829,43.58,49.44,"1,02,830",Arizona
+179,180,Business and Financial Operations Occupations,"8,180",0.058,37.9,41.7,"86,740",Arizona
+180,181,Accountant,"1,08,550",0.77,45.82,50.02,"1,04,050",Arizona
+181,182,Attorney,"6,820",0.048,39.18,45.4,"94,430",Arizona
+182,183,Truck Driver,"2,44,340",1.734,39.47,46.32,"96,340",Arizona
+183,184,Data Analyst,"21,950",0.156,70.89,72.36,"1,50,510",Arizona
+184,185,Management Consultant,"1,930",0.014,61.62,67.02,"1,39,410",Arizona
+185,186,Engineer,"20,020",0.142,73.29,72.88,"1,51,580",Arizona
+186,187,Teacher,"8,520",0.061,45.47,46.58,"96,880",Arizona
+187,188,Psychologist,"87,290",0.62,38.34,43.43,"90,330",Arizona
+188,189,Stock Broker,"80,600",0.572,38.19,42.85,"89,130",Arizona
+189,190,Electrician,"6,690",0.047,48.12,50.38,"1,04,790",Arizona
+190,191,Pilot,"1,06,910",0.759,37.66,41.82,"86,980",Arizona
+191,192,Investment Banker,"76,890",0.546,36.79,39.06,"81,240",Arizona
+192,193,Financial Advisor,"23,620",0.168,40.23,49.78,"1,03,550",Arizona
+193,194,Police,"6,390",0.045,40.4,45.57,"94,780",Arizona
+194,195,Registered Nurse,"19,680",0.14,50.05,54.43,"1,13,220",Arizona
+195,196,Management Occupations,"2,46,680",1.751,38.89,43.66,"90,810",Arkansas
+196,197,Top Executives,"15,640",0.111,50.79,58.09,"1,20,830",Arkansas
+197,198,Chief Executives,"8,850",0.063,28.72,31.1,"64,690",Arkansas
+198,199,General and Operations Managers,"1,29,620",0.92,38.96,44.28,"92,100",Arkansas
+199,200,Legislators,610,0.004,50.63,54.48,"1,13,320",Arkansas
+200,201,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","58,100",0.412,39.67,47.9,"99,640",Arkansas
+201,202,Advertising and Promotions Managers,"57,110",0.405,37.88,39.8,"82,770",Arkansas
+202,203,Marketing and Sales Managers,"13,800",0.098,49.47,47.12,"98,010",Arkansas
+203,204,Marketing Managers,"2,640",0.019,44.67,46.28,"96,260",Arkansas
+204,205,Sales Managers,"38,940",0.276,37.74,39.09,"81,310",Arkansas
+205,206,Public Relations and Fundraising Managers,"50,990",0.362,39.61,43.19,"89,840",Arkansas
+206,207,Public Relations Managers,"6,650",0.047,29.76,32.12,"66,800",Arkansas
+207,208,Fundraising Managers,"1,440",0.01,40.97,41.7,"86,740",Arkansas
+208,209,Operations Specialties Managers,"2,910",0.021,30.74,34.68,"72,130",Arkansas
+209,210,Administrative Services and Facilities Managers,"5,650",0.04,58.9,57.9,"1,20,430",Arkansas
+210,211,Administrative Services Managers,"34,330",0.244,40.59,43.7,"90,900",Arkansas
+211,212,Facilities Managers,"3,49,540",2.481,23.25,25.91,"53,890",Arkansas
+212,213,Computer and Information Systems Managers,"25,090",0.178,21.49,22.23,"46,240",Arkansas
+213,214,Financial Managers,"13,560",0.096,19.44,21.56,"44,850",Arkansas
+214,215,Industrial Production Managers,"11,530",0.082,22.4,23.01,"47,870",Arkansas
+215,216,Purchasing Managers,"76,150",0.541,23.15,24.89,"51,770",Arkansas
+216,217,"Transportation, Storage, and Distribution Managers","57,690",0.409,23.56,26.46,"55,040",Arkansas
+217,218,Compensation and Benefits Managers,"46,860",0.333,23.01,25.88,"53,830",Arkansas
+218,219,Human Resources Managers,"34,110",0.242,22.78,24.3,"50,550",Arkansas
+219,220,Training and Development Managers,"9,210",0.065,23.23,28.4,"59,080",Arkansas
+220,221,Other Management Occupations,"3,550",0.025,29.94,34.5,"71,760",Arkansas
+221,222,"Farmers, Ranchers, and Other Agricultural Managers","5,360",0.038,47.76,45.77,"95,200",Arkansas
+222,223,Construction Managers,"28,690",0.204,23.9,27.13,"56,430",Arkansas
+223,224,Education and Childcare Administrators,"30,440",0.216,18.89,20.87,"43,420",Arkansas
+224,225,"Education and Childcare Administrators, Preschool and Daycare","79,250",0.563,24.21,27.83,"57,880",Arkansas
+225,226,"Education Administrators, Kindergarten through Secondary","17,020",0.121,29.78,32.14,"66,850",Arkansas
+226,227,"Education Administrators, Postsecondary","62,230",0.442,23.57,26.65,"55,420",Arkansas
+227,228,"Education Administrators, All Other","1,28,090",0.909,36,36.13,"75,150",Arkansas
+228,229,Architectural and Engineering Managers,"1,06,340",0.755,37.29,37.86,"78,740",Arkansas
+229,230,Food Service Managers,"21,750",0.154,24.58,27.67,"57,560",Arkansas
+230,231,Entertainment and Recreation Managers,"22,39,680",15.897,23.28,25.94,"53,960",Arkansas
+231,232,Gambling Managers,"21,57,410",15.313,23.27,25.94,"53,950",Arkansas
+232,233,"Entertainment and Recreation Managers, Except Gambling","7,81,830",5.549,23.73,27.12,"56,410",Arkansas
+233,234,Lodging Managers,"2,96,370",2.104,29.09,30.33,"63,090",Arkansas
+234,235,Medical and Health Services Managers,"54,800",0.389,23.98,28.69,"59,660",Arkansas
+235,236,Natural Sciences Managers,"90,310",0.641,18.54,21.51,"44,740",Arkansas
+236,237,Postmasters and Mail Superintendents,"3,10,880",2.207,23.33,25.72,"53,490",Arkansas
+237,238,"Property, Real Estate, and Community Association Managers","29,480",0.209,21.71,23.91,"49,730",Arkansas
+238,239,Social and Community Service Managers,"6,77,440",4.808,24.23,27.83,"57,880",Arkansas
+239,240,Emergency Management Directors,"3,40,050",2.414,23.63,26.39,"54,880",Arkansas
+240,241,Personal Service Managers,"1,73,860",1.234,29.25,29.96,"62,310",Arkansas
+241,242,Funeral Home Managers,"1,13,810",0.808,23.62,27.79,"57,800",Arkansas
+242,243,"Personal Service Managers, All Other","49,730",0.353,29.42,30.29,"63,010",Arkansas
+243,244,"Managers, All Other","6,98,130",4.955,20.43,22.78,"47,380",Arkansas
+244,245,Business and Financial Operations Occupations,"55,830",0.396,29.13,31.22,"64,930",Arkansas
+245,246,Accountant,"92,140",0.654,28.97,30.43,"63,290",Arkansas
+246,247,Attorney,"3,98,380",2.828,18.08,19.45,"40,460",Arkansas
+247,248,Truck Driver,"61,010",0.433,22.4,22.97,"47,780",Arkansas
+248,249,Data Analyst,"90,770",0.644,22.78,24.28,"50,510",Arkansas
+249,250,Management Consultant,"82,280",0.584,23.35,26.13,"54,340",Arkansas
+250,251,Engineer,"50,790",0.36,23.9,27.51,"57,230",Arkansas
+251,252,Teacher,"21,000",0.149,22.59,25.42,"52,880",Arkansas
+252,253,Psychologist,"10,490",0.074,18.03,20.81,"43,290",Arkansas
+253,254,Stock Broker,"11,78,140",8.362,39.63,54.38,"1,13,100",Arkansas
+254,255,Electrician,"7,44,760",5.286,61.32,69.46,"1,44,470",Arkansas
+255,256,Pilot,"6,95,810",4.939,61.39,70.3,"1,46,220",Arkansas
+256,257,Investment Banker,"6,81,010",4.834,61.54,71.17,"1,48,030",Arkansas
+257,258,Financial Advisor,"14,800",0.105,24.4,30.16,"62,730",Arkansas
+258,259,Police,"48,950",0.347,53.15,57.54,"1,19,690",Arkansas
+259,260,Registered Nurse,"13,840",0.098,49.3,50.08,"1,04,160",Arkansas
+260,261,Management Occupations,"7,320",0.052,23.76,29.98,"62,350",California
+261,262,Top Executives,"27,790",0.197,71.17,68.52,"1,42,520",California
+262,263,Chief Executives,"4,33,380",3.076,26.38,28.46,"59,190",California
+263,264,General and Operations Managers,"3,36,250",2.387,27.03,28.04,"58,330",California
+264,265,Legislators,"97,130",0.689,24.78,29.89,"62,170",California
+265,266,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","51,040",0.362,22.74,25.19,"52,390",California
+266,267,Advertising and Promotions Managers,"46,090",0.327,28.75,35.1,"73,000",California
+267,268,Marketing and Sales Managers,"81,91,930",58.146,27.51,29.88,"62,140",California
+268,269,Marketing Managers,"13,40,560",9.515,32.72338832,37.32147119,"95,200",California
+269,270,Sales Managers,"79,640",0.565,32.72338832,37.32147119,"1,05,720",California
+270,271,Public Relations and Fundraising Managers,"81,740",0.58,32.72338832,37.32147119,"88,730",California
+271,272,Public Relations Managers,"37,600",0.267,32.72338832,37.32147119,"89,610",California
+272,273,Fundraising Managers,"44,140",0.313,32.72338832,37.32147119,"87,980",California
+273,274,Operations Specialties Managers,"41,380",0.294,32.72338832,37.32147119,"1,13,150",California
+274,275,Administrative Services and Facilities Managers,"5,950",0.042,32.72338832,37.32147119,"98,600",California
+275,276,Administrative Services Managers,"35,440",0.252,32.72338832,37.32147119,"1,15,590",California
+276,277,Facilities Managers,"57,440",0.408,32.72338832,37.32147119,"98,430",California
+277,278,Computer and Information Systems Managers,"8,570",0.061,32.72338832,37.32147119,"97,520",California
+278,279,Financial Managers,"47,690",0.338,32.72338832,37.32147119,"98,710",California
+279,280,Industrial Production Managers,"1,180",0.008,32.72338832,37.32147119,"93,510",California
+280,281,Purchasing Managers,"48,420",0.344,32.72338832,37.32147119,"97,110",California
+281,282,"Transportation, Storage, and Distribution Managers","10,250",0.073,32.72338832,37.32147119,"1,02,840",California
+282,283,Compensation and Benefits Managers,"20,260",0.144,32.72338832,37.32147119,"94,060",California
+283,284,Human Resources Managers,"5,440",0.039,32.72338832,37.32147119,"92,210",California
+284,285,Training and Development Managers,"12,460",0.088,32.72338832,37.32147119,"99,480",California
+285,286,Other Management Occupations,"1,08,100",0.767,32.72338832,37.32147119,"94,340",California
+286,287,"Farmers, Ranchers, and Other Agricultural Managers","5,010",0.036,32.72338832,37.32147119,"1,02,110",California
+287,288,Construction Managers,"9,040",0.064,32.72338832,37.32147119,"91,680",California
+288,289,Education and Childcare Administrators,"11,790",0.084,32.72338832,37.32147119,"1,24,090",California
+289,290,"Education and Childcare Administrators, Preschool and Daycare","3,440",0.024,32.72338832,37.32147119,"88,150",California
+290,291,"Education Administrators, Kindergarten through Secondary","14,060",0.1,32.72338832,37.32147119,"98,980",California
+291,292,"Education Administrators, Postsecondary","36,060",0.256,32.72338832,37.32147119,"88,390",California
+292,293,"Education Administrators, All Other","12,550",0.089,32.72338832,37.32147119,"87,850",California
+293,294,Architectural and Engineering Managers,"16,140",0.115,32.72338832,37.32147119,"87,320",California
+294,295,Food Service Managers,"2,59,890",1.845,32.72338832,37.32147119,"1,19,880",California
+295,296,Entertainment and Recreation Managers,"1,91,830",1.362,32.72338832,37.32147119,"1,33,310",Colorado
+296,297,Gambling Managers,"68,060",0.483,32.72338832,37.32147119,"82,040",Colorado
+297,298,"Entertainment and Recreation Managers, Except Gambling","63,100",0.448,32.72338832,37.32147119,"77,260",Colorado
+298,299,Lodging Managers,"58,780",0.417,32.72338832,37.32147119,"76,990",Colorado
+299,300,Medical and Health Services Managers,"4,330",0.031,32.72338832,37.32147119,"80,850",Colorado
+300,301,Natural Sciences Managers,"40,170",0.285,32.72338832,37.32147119,"97,720",Colorado
+301,302,Postmasters and Mail Superintendents,"13,790",0.098,32.72338832,37.32147119,"81,730",Colorado
+302,303,"Property, Real Estate, and Community Association Managers","14,110",0.1,32.72338832,37.32147119,"1,30,820",Colorado
+303,304,Social and Community Service Managers,"12,280",0.087,32.72338832,37.32147119,"77,650",Colorado
+304,305,Emergency Management Directors,"2,39,610",1.701,32.72338832,37.32147119,"85,110",Colorado
+305,306,Personal Service Managers,"94,720",0.672,32.72338832,37.32147119,"86,240",Colorado
+306,307,Funeral Home Managers,"27,330",0.194,32.72338832,37.32147119,"84,580",Colorado
+307,308,"Personal Service Managers, All Other","58,480",0.415,32.72338832,37.32147119,"82,680",Colorado
+308,309,"Managers, All Other","19,640",0.139,32.72338832,37.32147119,"82,990",Colorado
+309,310,Business and Financial Operations Occupations,"18,590",0.132,32.72338832,37.32147119,"86,460",Colorado
+310,311,Accountant,"20,850",0.148,32.72338832,37.32147119,"88,260",Colorado
+311,312,Attorney,"3,21,050",2.279,32.72338832,37.32147119,"82,100",Colorado
+312,313,Truck Driver,"2,730",0.019,32.72338832,37.32147119,"93,230",Colorado
+313,314,Data Analyst,"13,860",0.098,32.72338832,37.32147119,"79,080",Colorado
+314,315,Management Consultant,"1,05,440",0.748,28.77,30.35,"63,130",Colorado
+315,316,Engineer,"1,99,020",1.413,32.72338832,37.32147119,"92,200",Colorado
+316,317,Teacher,"40,21,070",28.541,32.72338832,37.32147119,"64,870",Colorado
+317,318,Psychologist,"5,12,400",3.637,17.65,20.7,"43,060",Colorado
+318,319,Stock Broker,"3,91,670",2.78,14.52,17.53,"36,460",Colorado
+319,320,Electrician,"1,20,730",0.857,32.72338832,37.32147119,"64,490",Colorado
+320,321,Pilot,"19,33,120",13.721,32.72338832,37.32147119,"67,030",Colorado
+321,322,Investment Banker,"13,29,280",9.435,32.72338832,37.32147119,"67,080",Colorado
+322,323,Financial Advisor,"5,92,000",4.202,32.72338832,37.32147119,"66,880",Colorado
+323,324,Police,"11,840",0.084,32.72338832,37.32147119,"69,410",Colorado
+324,325,Registered Nurse,"11,04,600",7.84,32.72338832,37.32147119,"69,490",Colorado
+325,326,Management Occupations,"10,20,240",7.242,32.72338832,37.32147119,"69,530",Colorado
+326,327,Top Executives,"84,360",0.599,32.72338832,37.32147119,"68,960",Colorado
+327,328,Chief Executives,"4,70,960",3.343,32.72338832,37.32147119,"68,880",Colorado
+328,329,General and Operations Managers,"21,130",0.15,32.72338832,37.32147119,"71,970",Colorado
+329,330,Legislators,"1,87,070",1.328,32.72338832,37.32147119,"67,090",Colorado
+330,331,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","79,070",0.561,32.72338832,37.32147119,"68,860",Colorado
+331,332,Advertising and Promotions Managers,"1,45,690",1.034,32.72338832,37.32147119,"70,100",Colorado
+332,333,Marketing and Sales Managers,"38,000",0.27,32.72338832,37.32147119,"71,330",Colorado
+333,334,Marketing Managers,"9,41,530",6.683,17.94,22.35,"46,490",Colorado
+334,335,Sales Managers,"38,260",0.272,28.71,29.16,"60,650",Colorado
+335,336,Public Relations and Fundraising Managers,"2,16,910",1.54,20.95,23.67,"49,230",Colorado
+336,337,Public Relations Managers,"3,74,620",2.659,14.47,18.47,"38,410",Colorado
+337,338,Fundraising Managers,"1,47,100",1.044,17.53,20.09,"41,780",Colorado
+338,339,Operations Specialties Managers,"1,64,650",1.169,32.72338832,37.32147119,"62,200",Colorado
+339,340,Administrative Services and Facilities Managers,"2,28,900",1.625,23.59,26.69,"55,520",Colorado
+340,341,Administrative Services Managers,"28,110",0.2,24.09,28.28,"58,830",Colorado
+341,342,Facilities Managers,"6,120",0.043,28.87,29.75,"61,880",Colorado
+342,343,Computer and Information Systems Managers,"11,030",0.078,28.9,30.71,"63,880",Colorado
+343,344,Financial Managers,"10,960",0.078,22.9,25.02,"52,030",Colorado
+344,345,Industrial Production Managers,"1,27,790",0.907,29.42,30.86,"64,180",Colorado
+345,346,Purchasing Managers,"73,000",0.518,17.78,18.79,"39,070",Colorado
+346,347,"Transportation, Storage, and Distribution Managers","16,59,870",11.782,32.72338832,37.32147119,"38,620",Colorado
+347,348,Compensation and Benefits Managers,"10,620",0.075,24.03,27.9,"58,040",Colorado
+348,349,Human Resources Managers,"1,84,740",1.311,30.64,33.92,"70,560",Colorado
+349,350,Training and Development Managers,"13,08,560",9.288,32.72338832,37.32147119,"32,640",Colorado
+350,351,Other Management Occupations,"1,21,290",0.861,32.72338832,37.32147119,"41,170",Colorado
+351,352,"Farmers, Ranchers, and Other Agricultural Managers","11,87,270",8.427,32.72338832,37.32147119,"31,760",Colorado
+352,353,Construction Managers,"1,55,950",1.107,22.26,23.87,"49,650",Colorado
+353,354,Education and Childcare Administrators,"18,15,290",12.885,24.61,31.78,"66,100",Colorado
+354,355,"Education and Childcare Administrators, Preschool and Daycare","6,09,150",4.324,23.18,28.32,"58,910",Colorado
+355,356,"Education Administrators, Kindergarten through Secondary","83,070",0.59,38.94,45.83,"95,330",Colorado
+356,357,"Education Administrators, Postsecondary","42,080",0.299,48.51,55.5,"1,15,430",Colorado
+357,358,"Education Administrators, All Other","3,740",0.027,17.27,19.58,"40,730",Colorado
+358,359,Architectural and Engineering Managers,"9,430",0.067,29.24,33.18,"69,010",Colorado
+359,360,Food Service Managers,"20,430",0.145,37.88,41.45,"86,220",Colorado
+360,361,Entertainment and Recreation Managers,"7,390",0.052,29.61,32.33,"67,240",Connecticut
+361,362,Gambling Managers,"5,26,080",3.734,22.29,25.56,"53,160",Connecticut
+362,363,"Entertainment and Recreation Managers, Except Gambling","27,940",0.198,37.03,38.31,"79,680",Connecticut
+363,364,Lodging Managers,"19,310",0.137,37.24,40.22,"83,650",Connecticut
+364,365,Medical and Health Services Managers,"36,000",0.256,14.36,15.43,"32,100",Connecticut
+365,366,Natural Sciences Managers,"2,04,040",1.448,24.38,28.83,"59,970",Connecticut
+366,367,Postmasters and Mail Superintendents,"61,970",0.44,29.01,30.08,"62,570",Connecticut
+367,368,"Property, Real Estate, and Community Association Managers","1,59,790",1.134,15.41,17.08,"35,520",Connecticut
+368,369,Social and Community Service Managers,"6,850",0.049,26.37,30.27,"62,960",Connecticut
+369,370,Emergency Management Directors,"10,190",0.072,29.96,35.33,"73,480",Connecticut
+370,371,Personal Service Managers,"4,38,600",3.113,23.78,34.55,"71,870",Connecticut
+371,372,Funeral Home Managers,"1,68,350",1.195,37.06,45.85,"95,360",Connecticut
+372,373,"Personal Service Managers, All Other","30,100",0.214,23.48,31.31,"54,400",Connecticut
+373,374,"Managers, All Other","1,38,250",0.981,37.98,49.01,"1,01,950",Connecticut
+374,375,Business and Financial Operations Occupations,"2,15,690",1.531,32.72338832,37.32147119,"54,390",Connecticut
+375,376,Accountant,"12,320",0.087,32.72338832,37.32147119,"1,16,930",Connecticut
+376,377,Attorney,"1,93,740",1.375,32.72338832,37.32147119,"50,550",Connecticut
+377,378,Truck Driver,"9,620",0.068,32.72338832,37.32147119,"51,710",Connecticut
+378,379,Data Analyst,"7,850",0.056,19.47,24.17,"50,280",Connecticut
+379,380,Management Consultant,"3,850",0.027,18.78,24.49,"54,400",Connecticut
+380,381,Engineer,"3,990",0.028,20.53,23.86,"49,630",Connecticut
+381,382,Teacher,"33,640",0.239,29.35,38.57,"54,400",Connecticut
+382,383,Psychologist,"9,560",0.068,23.62,31.29,"65,080",Connecticut
+383,384,Stock Broker,"24,080",0.171,30.49,41.46,"54,400",Connecticut
+384,385,Electrician,"13,070",0.093,17.59,23.6,"54,400",Connecticut
+385,386,Pilot,"4,770",0.034,15.7,21.82,"54,400",Connecticut
+386,387,Investment Banker,"8,300",0.059,17.96,24.62,"54,400",Connecticut
+387,388,Financial Advisor,"5,73,200",4.069,29.97,34.5,"71,760",Connecticut
+388,389,Police,"24,580",0.174,18.09,26.97,"56,110",Connecticut
+389,390,Registered Nurse,"39,080",0.277,23.26,30.4,"63,230",Connecticut
+390,391,Management Occupations,"2,42,710",1.723,30.19,35.22,"73,250",Connecticut
+391,392,Top Executives,"1,85,810",1.319,34.44,37.96,"78,950",Connecticut
+392,393,Chief Executives,"88,780",0.63,30.46,36.73,"76,400",Connecticut
+393,394,General and Operations Managers,"47,620",0.338,37.53,39.17,"81,470",Connecticut
+394,395,Legislators,"49,410",0.351,33.42,39,"81,120",Connecticut
+395,396,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","81,010",0.575,24.03,28.68,"59,650",Connecticut
+396,397,Advertising and Promotions Managers,"52,170",0.37,23.61,28.08,"58,400",Connecticut
+397,398,Marketing and Sales Managers,"12,300",0.087,29.03,31.36,"65,240",Connecticut
+398,399,Marketing Managers,"16,540",0.117,23.99,28.56,"59,400",Connecticut
+399,400,Sales Managers,"1,94,350",1.379,23.52,28.35,"58,970",Connecticut
+400,401,Public Relations and Fundraising Managers,"90,940",0.646,23.46,26.8,"55,750",Connecticut
+401,402,Public Relations Managers,"50,590",0.359,23.47,26.59,"55,310",Connecticut
+402,403,Fundraising Managers,"25,270",0.179,21.51,24.66,"51,280",Connecticut
+403,404,Operations Specialties Managers,"10,800",0.077,29.09,32.38,"67,360",Connecticut
+404,405,Administrative Services and Facilities Managers,"4,280",0.03,24.75,27.89,"58,020",Connecticut
+405,406,Administrative Services Managers,"38,420",0.273,18.73,23.18,"48,210",Connecticut
+406,407,Facilities Managers,"48,320",0.343,29.02,33.66,"70,020",Connecticut
+407,408,Computer and Information Systems Managers,"20,280",0.144,23.67,29.69,"61,740",Connecticut
+408,409,Financial Managers,"28,030",0.199,30.13,36.54,"76,000",Connecticut
+409,410,Industrial Production Managers,"16,670",0.118,30.41,33.31,"69,290",Connecticut
+410,411,Purchasing Managers,"87,87,730",62.375,36.08,43.8,"91,100",Connecticut
+411,412,"Transportation, Storage, and Distribution Managers","57,72,460",40.972,39.07,53.92,"1,12,160",Connecticut
+412,413,Compensation and Benefits Managers,"35,810",0.254,36.06,39.06,"81,240",Connecticut
+413,414,Human Resources Managers,"1,24,680",0.885,78.47,85.47,"1,77,770",Connecticut
+414,415,Training and Development Managers,"1,08,680",0.771,77.1,80.37,"1,67,160",Connecticut
+415,416,Other Management Occupations,"5,330",0.038,32.72338832,149.74,"3,11,460",Connecticut
+416,417,"Farmers, Ranchers, and Other Agricultural Managers","5,140",0.036,32.72338832,128.5,"2,67,280",Connecticut
+417,418,Construction Managers,790,0.006,48.54,69.1,"1,43,730",Connecticut
+418,419,Education and Childcare Administrators,"4,750",0.034,84.21,86.25,"1,79,400",Connecticut
+419,420,"Education and Childcare Administrators, Preschool and Daycare","66,690",0.473,29.64,31.55,"65,620",Connecticut
+420,421,"Education Administrators, Kindergarten through Secondary","38,720",0.275,59.76,60.31,"1,25,440",Connecticut
+421,422,"Education Administrators, Postsecondary","3,12,550",2.218,61.81,60.43,"1,25,690",Connecticut
+422,423,"Education Administrators, All Other","1,32,940",0.944,58.43,57.43,"1,19,460",Connecticut
+423,424,Architectural and Engineering Managers,"8,840",0.063,70.11,76.15,"1,58,380",Connecticut
+424,425,Food Service Managers,"6,87,440",4.879,37.82,40.42,"84,080",Connecticut
+425,426,Entertainment and Recreation Managers,"1,27,830",0.907,41.14,43.02,"89,470",Delaware
+426,427,Gambling Managers,"2,25,350",1.6,45.97,44.67,"92,920",Delaware
+427,428,"Entertainment and Recreation Managers, Except Gambling","16,050",0.114,39.8,45.19,"94,000",Delaware
+428,429,Lodging Managers,"16,980",0.121,23.05,25.91,"53,900",Delaware
+429,430,Medical and Health Services Managers,"1,33,410",0.947,29.73,32.78,"68,190",Delaware
+430,431,Natural Sciences Managers,"1,47,470",1.047,38.01,41.26,"85,820",Delaware
+431,432,Postmasters and Mail Superintendents,"6,860",0.049,23.05,25.98,"54,030",Delaware
+432,433,"Property, Real Estate, and Community Association Managers","13,490",0.096,28.61,31.26,"65,030",Delaware
+433,434,Social and Community Service Managers,"77,260",0.548,48.26,52.84,"1,09,920",Delaware
+434,435,Emergency Management Directors,"30,47,530",21.631,37.31,39.78,"82,750",Delaware
+435,436,Personal Service Managers,"43,950",0.312,94.04,97.34,"2,02,470",Delaware
+436,437,Funeral Home Managers,"7,750",0.055,54.24,54.91,"1,14,210",Delaware
+437,438,"Personal Service Managers, All Other","2,34,690",1.666,58.02,56.75,"1,18,040",Delaware
+438,439,"Managers, All Other","13,240",0.094,37.96,41.37,"86,050",Delaware
+439,440,Business and Financial Operations Occupations,"6,41,380",4.552,32.72338832,121.38,"2,52,480",Delaware
+440,441,Accountant,"31,130",0.221,32.72338832,159.22,"3,31,190",Delaware
+441,442,Attorney,"18,610",0.132,32.72338832,170.18,"3,53,970",Delaware
+442,443,Truck Driver,"9,230",0.065,32.72338832,145.55,"3,02,740",Delaware
+443,444,Data Analyst,"36,180",0.257,32.72338832,149.35,"3,10,640",Delaware
+444,445,Management Consultant,"1,02,930",0.731,32.72338832,113.43,"2,35,930",Delaware
+445,446,Engineer,"58,260",0.414,32.72338832,116.44,"2,42,190",Delaware
+446,447,Teacher,"7,120",0.051,32.72338832,128.68,"2,67,660",Delaware
+447,448,Psychologist,"21,570",0.153,32.72338832,142.41,"2,96,210",Delaware
+448,449,Stock Broker,"33,620",0.239,81.96,95.4,"1,98,420",Delaware
+449,450,Electrician,"11,010",0.078,32.72338832,128.45,"2,67,180",Delaware
+450,451,Pilot,"25,520",0.181,32.72338832,120.08,"2,49,760",Delaware
+451,452,Investment Banker,"29,530",0.21,32.72338832,145.06,"3,01,720",Delaware
+452,453,Financial Advisor,"2,56,670",1.822,32.72338832,111.3,"2,31,500",Delaware
+453,454,Police,"58,280",0.414,32.72338832,141.6,"2,94,520",Delaware
+454,455,Registered Nurse,"11,610",0.082,32.72338832,129.85,"2,70,090",Delaware
+455,456,Management Occupations,"16,260",0.115,32.72338832,147.22,"3,06,220",Delaware
+456,457,Top Executives,820,0.006,32.72338832,139.57,"2,90,310",Delaware
+457,458,Chief Executives,"29,590",0.21,32.72338832,143.17,"2,97,800",Delaware
+458,459,General and Operations Managers,"2,40,690",1.708,37.45,40.65,"84,550",Delaware
+459,460,Legislators,"7,250",0.051,29.12,34.51,"71,770",Delaware
+460,461,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","2,07,190",1.471,37.41,39.12,"81,360",Delaware
+461,462,Advertising and Promotions Managers,"26,250",0.186,48.22,54.44,"1,13,230",Delaware
+462,463,Marketing and Sales Managers,"28,87,210",20.493,22.55,24.18,"50,300",Delaware
+463,464,Marketing Managers,"3,18,780",2.263,27.79,27.36,"56,910",Delaware
+464,465,Sales Managers,"4,08,390",2.899,32.26,34.03,"70,780",Delaware
+465,466,Public Relations and Fundraising Managers,"55,760",0.396,29.12,29.82,"62,020",Delaware
+466,467,Public Relations Managers,"78,640",0.558,37.38,38.79,"80,680",Delaware
+467,468,Fundraising Managers,"17,140",0.122,37.86,40.79,"84,850",Delaware
+468,469,Operations Specialties Managers,"2,16,380",1.536,29.5,31.97,"66,490",Delaware
+469,470,Administrative Services and Facilities Managers,"38,070",0.27,37.19,37.41,"77,820",Delaware
+470,471,Administrative Services Managers,"2,400",0.017,61.19,59.98,"1,24,750",Delaware
+471,472,Facilities Managers,"2,57,910",1.831,17.76,19.94,"41,480",Delaware
+472,473,Computer and Information Systems Managers,"1,61,400",1.146,17.05,17.64,"36,690",Delaware
+473,474,Financial Managers,"96,510",0.685,22.48,23.8,"49,500",Delaware
+474,475,Industrial Production Managers,"8,45,080",5.998,17.78,19.31,"40,170",Delaware
+475,476,Purchasing Managers,"21,610",0.153,14.19,16.42,"34,160",Delaware
+476,477,"Transportation, Storage, and Distribution Managers","4,36,630",3.099,17.66,18.25,"37,970",Delaware
+477,478,Compensation and Benefits Managers,"93,410",0.663,17.58,18.27,"38,000",Delaware
+478,479,Human Resources Managers,"1,09,060",0.774,23.33,25.77,"53,590",Delaware
+479,480,Training and Development Managers,"1,18,670",0.842,17.72,18.39,"38,250",Delaware
+480,481,Other Management Occupations,"65,700",0.466,17.87,19.77,"41,120",Delaware
+481,482,"Farmers, Ranchers, and Other Agricultural Managers","6,41,240",4.552,23.11,24.93,"51,850",Delaware
+482,483,Construction Managers,"1,80,570",1.282,22.43,23.23,"48,310",Delaware
+483,484,Education and Childcare Administrators,"73,270",0.52,18.06,20.7,"43,060",Delaware
+484,485,"Education and Childcare Administrators, Preschool and Daycare","1,61,980",1.15,22.42,24.96,"51,910",Delaware
+485,486,"Education Administrators, Kindergarten through Secondary","10,410",0.074,36.27,38.38,"79,820",Delaware
+486,487,"Education Administrators, Postsecondary","10,790",0.077,28.61,28.83,"59,960",Delaware
+487,488,"Education Administrators, All Other","1,40,770",0.999,21.98,23.67,"49,230",Delaware
+488,489,Architectural and Engineering Managers,"1,28,060",0.909,26.19,29.55,"61,470",Delaware
+489,490,Food Service Managers,"37,900",0.269,26.71,29.53,"61,410",Delaware
+490,491,Entertainment and Recreation Managers,"90,160",0.64,25.97,29.56,"61,490",Florida
+491,492,Gambling Managers,"26,070",0.185,32.72338832,37.32147119,"54,650",Florida
+492,493,"Entertainment and Recreation Managers, Except Gambling","2,740",0.019,38.54,41.65,"86,640",Florida
+493,494,Lodging Managers,"17,250",0.122,23.23,28.45,"59,170",Florida
+494,495,Medical and Health Services Managers,"44,100",0.313,28.25,31.19,"64,880",Florida
+495,496,Natural Sciences Managers,"66,03,680",46.872,14.37,16.02,"33,330",Florida
+496,497,Postmasters and Mail Superintendents,"47,65,620",33.826,14.24,14.64,"30,440",Florida
+497,498,"Property, Real Estate, and Community Association Managers","33,66,480",23.895,14.15,14.07,"29,260",Florida
+498,499,Social and Community Service Managers,"13,99,130",9.931,14.56,16.01,"33,290",Florida
+499,500,Emergency Management Directors,"13,14,830",9.333,14.57,15.99,"33,250",Florida
+500,501,Personal Service Managers,"45,160",0.321,14.42,16.08,"33,440",Florida
+501,502,Funeral Home Managers,"39,140",0.278,14.55,16.65,"34,640",Florida
+502,503,"Personal Service Managers, All Other","1,81,410",1.288,27.87,25.91,"53,900",Florida
+503,504,"Managers, All Other","45,350",0.322,29.58,29.69,"61,760",Florida
+504,505,Business and Financial Operations Occupations,"41,980",0.298,29.68,30.56,"63,560",Florida
+505,506,Accountant,"3,370",0.024,16.14,18.86,"39,230",Florida
+506,507,Attorney,"1,36,050",0.966,23.64,24.65,"51,280",Florida
+507,508,Truck Driver,"93,660",0.665,29.42,29.2,"60,740",Florida
+508,509,Data Analyst,"42,390",0.301,14.04,14.6,"30,370",Florida
+509,510,Management Consultant,"16,56,660",11.759,17.97,18.93,"39,360",Florida
+510,511,Engineer,"81,030",0.575,22.55,23.68,"49,260",Florida
+511,512,Teacher,"15,75,620",11.184,17.94,18.68,"38,860",Florida
+512,513,Psychologist,"3,47,170",2.464,18.59,20.44,"42,510",Florida
+513,514,Stock Broker,"7,27,760",5.166,17.88,18.36,"38,190",Florida
+514,515,Electrician,"61,170",0.434,18.37,20.4,"42,420",Florida
+515,516,Pilot,"55,830",0.396,14.47,16.45,"34,220",Florida
+516,517,Investment Banker,"43,560",0.309,14.39,16.61,"34,560",Florida
+517,518,Financial Advisor,"98,970",0.702,14.32,15.28,"31,780",Florida
+518,519,Police,"1,32,750",0.942,17.97,18.49,"38,450",Florida
+519,520,Registered Nurse,"1,08,410",0.769,18.14,19.56,"40,690",Florida
+520,521,Management Occupations,"33,85,030",24.027,22.4,25.68,"53,420",Florida
+521,522,Top Executives,"3,42,810",2.433,37.16,38.95,"81,010",Florida
+522,523,Chief Executives,"1,82,700",1.297,39.15,43.32,"90,110",Florida
+523,524,General and Operations Managers,"54,470",0.387,29.91,33.53,"69,750",Florida
+524,525,Legislators,"1,28,230",0.91,47.76,47.48,"98,760",Florida
+525,526,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","80,890",0.574,37.61,40.03,"83,270",Florida
+526,527,Advertising and Promotions Managers,"79,230",0.562,25.23,27.75,"57,730",Florida
+527,528,Marketing and Sales Managers,"55,450",0.394,24.15,26.48,"55,080",Florida
+528,529,Marketing Managers,"23,780",0.169,29.33,30.73,"63,910",Florida
+529,530,Sales Managers,"3,34,670",2.375,24.49,26.88,"55,910",Florida
+530,531,Public Relations and Fundraising Managers,"3,17,310",2.252,24.38,26.58,"55,290",Florida
+531,532,Public Relations Managers,"17,370",0.123,30.33,32.32,"67,230",Florida
+532,533,Fundraising Managers,"14,600",0.104,31.06,33.5,"69,680",Florida
+533,534,Operations Specialties Managers,"2,770",0.02,20.48,26.12,"54,340",Florida
+534,535,Administrative Services and Facilities Managers,"12,00,060",8.518,29.42,31.91,"66,370",Florida
+535,536,Administrative Services Managers,"4,09,020",2.903,23.04,25.66,"53,380",Florida
+536,537,Facilities Managers,"16,420",0.117,23.23,25.16,"52,340",Florida
+537,538,Computer and Information Systems Managers,"3,92,600",2.787,23.04,25.69,"53,420",Florida
+538,539,Financial Managers,"1,07,890",0.766,40.21,43.45,"90,370",Florida
+539,540,Industrial Production Managers,"6,730",0.048,29.2,27.98,"58,190",Florida
+540,541,Purchasing Managers,"7,450",0.053,22.4,22.14,"46,050",Florida
+541,542,"Transportation, Storage, and Distribution Managers","6,68,970",4.748,31.06,34.01,"70,740",Florida
+542,543,Compensation and Benefits Managers,"6,65,380",4.723,31.06,34.02,"70,750",Florida
+543,544,Human Resources Managers,"3,590",0.025,31.21,33.45,"69,570",Florida
+544,545,Training and Development Managers,"15,07,480",10.7,15.17,17.44,"36,280",Florida
+545,546,Other Management Occupations,"11,600",0.082,18.83,20.49,"42,620",Florida
+546,547,"Farmers, Ranchers, and Other Agricultural Managers","28,860",0.205,28.55,29.31,"60,970",Florida
+547,548,Construction Managers,"10,66,280",7.568,15.13,17.24,"35,860",Florida
+548,549,Education and Childcare Administrators,"9,190",0.065,17.04,18.31,"38,080",Florida
+549,550,"Education and Childcare Administrators, Preschool and Daycare","10,57,100",7.503,15.13,17.23,"35,830",Florida
+550,551,"Education Administrators, Kindergarten through Secondary","4,00,740",2.844,15.11,17.04,"35,450",Florida
+551,552,"Education Administrators, Postsecondary","82,690",0.587,15.12,17.15,"35,670",Florida
+552,553,"Education Administrators, All Other","1,14,320",0.811,12.32,13.14,"27,320",Florida
+553,554,Architectural and Engineering Managers,"48,320",0.343,21.86,22.3,"46,380",Florida
+554,555,Food Service Managers,"55,310",0.393,13.99,14.53,"30,220",Florida
+555,556,Entertainment and Recreation Managers,"1,00,110",0.711,18.37,20.27,"42,160",Georgia
+556,557,Gambling Managers,"1,12,01,480",79.507,13.65,14.16,"29,450",Georgia
+557,558,"Entertainment and Recreation Managers, Except Gambling","11,70,410",8.307,17.85,19.77,"41,130",Georgia
+558,559,Lodging Managers,"1,29,810",0.921,24.11,27.37,"56,920",Georgia
+559,560,Medical and Health Services Managers,"10,40,600",7.386,17.58,18.82,"39,150",Georgia
+560,561,Natural Sciences Managers,"32,81,610",23.293,13.99,14.13,"29,380",Georgia
+561,562,Postmasters and Mail Superintendents,"24,98,260",17.732,14,14.21,"29,560",Georgia
+562,563,"Property, Real Estate, and Community Association Managers","7,68,130",5.452,11.63,12.25,"25,490",Georgia
+563,564,Social and Community Service Managers,"3,92,860",2.788,14.38,15.15,"31,520",Georgia
+564,565,Emergency Management Directors,440,0.003,20.63,20.8,"43,260",Georgia
+565,566,Personal Service Managers,"11,93,860",8.474,14.43,15.21,"31,630",Georgia
+566,567,Funeral Home Managers,"1,24,800",0.886,13.73,13.51,"28,110",Georgia
+567,568,"Personal Service Managers, All Other","18,170",0.129,14.77,16.05,"33,390",Georgia
+568,569,"Managers, All Other","7,83,350",5.56,13.84,13.85,"28,810",Georgia
+569,570,Business and Financial Operations Occupations,"56,27,500",39.944,12.5,13.23,"27,520",Georgia
+570,571,Accountant,"4,85,330",3.445,12.67,14.59,"30,340",Georgia
+571,572,Attorney,"30,95,120",21.969,12.07,12.53,"26,060",Georgia
+572,573,Truck Driver,"18,04,030",12.805,12.5,13.95,"29,010",Georgia
+573,574,Data Analyst,"2,43,030",1.725,13.81,14.19,"29,500",Georgia
+574,575,Management Consultant,"11,21,960",7.964,13.17,13.06,"27,170",Georgia
+575,576,Engineer,"3,36,970",2.392,13.06,13.31,"27,690",Georgia
+576,577,Teacher,"3,77,040",2.676,13.52,13.15,"27,350",Georgia
+577,578,Psychologist,"3,24,690",2.305,11.83,12.5,"26,000",Georgia
+578,579,Stock Broker,"83,240",0.591,14,13.83,"28,760",Georgia
+579,580,Electrician,"41,08,810",29.164,14.54,16.23,"33,750",Georgia
+580,581,Pilot,"2,70,020",1.917,22.42,23.38,"48,620",Georgia
+581,582,Investment Banker,"1,53,640",1.091,19.05,21.68,"45,100",Georgia
+582,583,Financial Advisor,"1,16,380",0.826,23.46,25.61,"53,270",Georgia
+583,584,Police,"28,62,840",20.32,14.25,15.19,"31,590",Georgia
+584,585,Registered Nurse,"27,77,470",19.714,14.2,15.05,"31,310",Georgia
+585,586,Management Occupations,"20,36,680",14.456,14.31,15.32,"31,860",Georgia
+586,587,Top Executives,"7,23,430",5.135,13.84,14.22,"29,580",Georgia
+587,588,Chief Executives,"17,350",0.123,16.51,18.52,"38,530",Georgia
+588,589,General and Operations Managers,"85,370",0.606,18.05,19.54,"40,640",Georgia
+589,590,Legislators,"9,75,950",6.927,17.05,17.29,"35,960",Georgia
+590,591,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","8,92,450",6.335,16.55,16.94,"35,240",Georgia
+591,592,Advertising and Promotions Managers,"25,820",0.183,18.4,19.47,"40,500",Georgia
+592,593,Marketing and Sales Managers,"41,920",0.298,22.58,22.81,"47,450",Georgia
+593,594,Marketing Managers,"15,770",0.112,17.57,18.81,"39,120",Georgia
+594,595,Sales Managers,"25,66,440",18.216,14.16,16.17,"33,620",Georgia
+595,596,Public Relations and Fundraising Managers,"1,87,400",1.33,21.67,22.57,"46,950",Georgia
+596,597,Public Relations Managers,"86,370",0.613,22.62,23.25,"48,370",Georgia
+597,598,Fundraising Managers,"19,510",0.138,23.63,25.28,"52,590",Georgia
+598,599,Operations Specialties Managers,"66,860",0.475,21.57,22.66,"47,130",Georgia
+599,600,Administrative Services and Facilities Managers,"1,01,030",0.717,19.42,21.99,"45,730",Georgia
+600,601,Administrative Services Managers,"2,41,520",1.714,13.81,14.47,"30,100",Georgia
+601,602,Facilities Managers,"15,840",0.112,15.04,18.38,"38,230",Georgia
+602,603,Computer and Information Systems Managers,"2,25,680",1.602,13.75,14.19,"29,520",Georgia
+603,604,Financial Managers,"4,18,960",2.974,12,13.06,"27,170",Georgia
+604,605,Industrial Production Managers,"82,860",0.588,12.32,14.11,"29,340",Georgia
+605,606,Purchasing Managers,"64,700",0.459,12,13.92,"28,960",Georgia
+606,607,"Transportation, Storage, and Distribution Managers","7,340",0.052,13.24,14,"29,110",Georgia
+607,608,Compensation and Benefits Managers,"10,820",0.077,13.94,15.28,"31,790",Georgia
+608,609,Human Resources Managers,"1,620",0.011,14.11,15.85,"32,970",Georgia
+609,610,Training and Development Managers,"54,970",0.39,11.75,12.69,"26,390",Georgia
+610,611,Other Management Occupations,"2,79,510",1.984,11.93,12.81,"26,650",Georgia
+611,612,"Farmers, Ranchers, and Other Agricultural Managers","2,62,170",1.861,11.78,12.55,"26,110",Georgia
+612,613,Construction Managers,"3,380",0.024,23,26.25,"54,590",Georgia
+613,614,Education and Childcare Administrators,"9,670",0.069,13.74,14.53,"30,220",Georgia
+614,615,"Education and Childcare Administrators, Preschool and Daycare","4,290",0.03,11.62,14.27,"29,680",Georgia
+615,616,"Education Administrators, Kindergarten through Secondary","63,300",0.449,17.54,20.58,"42,800",Georgia
+616,617,"Education Administrators, Postsecondary","6,110",0.043,21.62,22.77,"47,350",Georgia
+617,618,"Education Administrators, All Other","4,070",0.029,22.97,24.62,"51,210",Georgia
+618,619,Architectural and Engineering Managers,"2,040",0.014,18.03,19.07,"39,660",Georgia
+619,620,Food Service Managers,"32,490",0.231,14.05,15.21,"31,630",Georgia
+620,621,Entertainment and Recreation Managers,"24,700",0.175,23.53,27.1,"56,360",Hawaii
+621,622,Gambling Managers,"4,81,530",3.418,14.22,16.99,"35,350",Hawaii
+622,623,"Entertainment and Recreation Managers, Except Gambling","2,98,880",2.121,14.27,17.3,"35,980",Hawaii
+623,624,Lodging Managers,"12,910",0.092,14.41,17.16,"35,700",Hawaii
+624,625,Medical and Health Services Managers,"2,85,980",2.03,14.26,17.3,"35,990",Hawaii
+625,626,Natural Sciences Managers,"1,82,640",1.296,14.16,16.5,"34,310",Hawaii
+626,627,Postmasters and Mail Superintendents,"1,960",0.014,64.78,59.8,"1,24,380",Hawaii
+627,628,"Property, Real Estate, and Community Association Managers","1,20,540",0.856,14.05,14.65,"30,480",Hawaii
+628,629,Social and Community Service Managers,"9,560",0.068,11.75,12.09,"25,160",Hawaii
+629,630,Emergency Management Directors,"50,580",0.359,17.93,20.05,"41,700",Hawaii
+630,631,Personal Service Managers,"54,100",0.384,14.77,16.68,"34,680",Hawaii
+631,632,Funeral Home Managers,"20,530",0.146,14,14.44,"30,040",Hawaii
+632,633,"Personal Service Managers, All Other","33,560",0.238,16.93,18.04,"37,520",Hawaii
+633,634,"Managers, All Other","30,980",0.22,14.32,15.96,"33,200",Hawaii
+634,635,Business and Financial Operations Occupations,"10,88,670",7.727,14.2,15.99,"33,260",Hawaii
+635,636,Accountant,"4,38,520",3.113,13.22,13.31,"27,680",Hawaii
+636,637,Attorney,"4,85,620",3.447,14.87,18.43,"38,340",Hawaii
+637,638,Truck Driver,"2,21,600",1.573,19.57,22.05,"45,870",Hawaii
+638,639,Data Analyst,"2,64,020",1.874,14.27,15.39,"32,020",Hawaii
+639,640,Management Consultant,"92,500",0.657,15.01,16.81,"34,950",Hawaii
+640,641,Engineer,"72,030",0.511,14.24,14.8,"30,790",Hawaii
+641,642,Teacher,"1,32,56,290",94.092,14.71,22.15,"46,080",Hawaii
+642,643,Psychologist,"13,87,190",9.846,22.52,26.38,"54,880",Hawaii
+643,644,Stock Broker,"11,43,260",8.115,18.86,22.54,"46,890",Hawaii
+644,645,Electrician,"2,43,920",1.731,38.31,44.38,"92,320",Hawaii
+645,646,Pilot,"76,65,410",54.408,13.79,14.45,"30,060",Hawaii
+646,647,Investment Banker,"33,35,170",23.673,13.12,12.88,"26,780",Hawaii
+647,648,Financial Advisor,"33,18,020",23.551,13.11,12.87,"26,770",Hawaii
+648,649,Police,"17,150",0.122,13.75,14,"29,130",Hawaii
+649,650,Registered Nurse,"6,36,750",4.52,15.28,17.54,"36,480",Hawaii
+650,651,Management Occupations,"3,71,620",2.638,15.06,17.39,"36,170",Hawaii
+651,652,Top Executives,"2,65,130",1.882,16.47,17.75,"36,920",Hawaii
+652,653,Chief Executives,"36,93,490",26.216,14,15.35,"31,920",Hawaii
+653,654,General and Operations Managers,"20,09,700",14.265,29.11,35.95,"74,770",Hawaii
+654,655,Legislators,"96,660",0.686,25.16,31.99,"66,540",Hawaii
+655,656,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","4,22,600",3,23.96,33.34,"69,340",Hawaii
+656,657,Advertising and Promotions Managers,"4,26,870",3.03,30.25,44.84,"93,260",Hawaii
+657,658,Marketing and Sales Managers,"37,190",0.264,21.06,22.39,"46,580",Hawaii
+658,659,Marketing Managers,"10,26,390",7.285,29.11,34.19,"71,110",Hawaii
+659,660,Sales Managers,"15,08,660",10.708,30.24,37.38,"77,750",Hawaii
+660,661,Public Relations and Fundraising Managers,"2,66,160",1.889,45.6,49.4,"1,02,750",Hawaii
+661,662,Public Relations Managers,"12,42,490",8.819,29.61,34.81,"72,390",Hawaii
+662,663,Fundraising Managers,"6,85,330",4.864,17.59,25.76,"53,580",Hawaii
+663,664,Operations Specialties Managers,"42,670",0.303,15.73,19.01,"39,550",Hawaii
+664,665,Administrative Services and Facilities Managers,"40,680",0.289,15.55,17.78,"36,990",Hawaii
+665,666,Administrative Services Managers,"2,000",0.014,32.72338832,37.32147119,"54,400",Hawaii
+666,667,Facilities Managers,"2,24,380",1.593,23.45,32.16,"66,880",Hawaii
+667,668,Computer and Information Systems Managers,"48,460",0.344,29.81,41.58,"86,490",Hawaii
+668,669,Financial Managers,"1,75,920",1.249,23.24,29.56,"61,480",Hawaii
+669,670,Industrial Production Managers,"59,550",0.423,49.86,57.03,"1,18,630",Hawaii
+670,671,Purchasing Managers,"1,15,130",0.817,13.9,14.74,"30,670",Hawaii
+671,672,"Transportation, Storage, and Distribution Managers","2,43,600",1.729,14.22,18.61,"38,720",Hawaii
+672,673,Compensation and Benefits Managers,"7,860",0.056,14.13,16.81,"34,970",Hawaii
+673,674,Human Resources Managers,"2,35,740",1.673,14.22,18.67,"38,840",Hawaii
+674,675,Training and Development Managers,"1,82,99,380",129.888,18.29,20.88,"43,430",Hawaii
+675,676,Other Management Occupations,"14,43,630",10.247,29.13,30.47,"63,380",Hawaii
+676,677,"Farmers, Ranchers, and Other Agricultural Managers","53,400",0.379,14.77,16.98,"35,310",Hawaii
+677,678,Construction Managers,"48,190",0.342,14.5,16.63,"34,590",Hawaii
+678,679,Education and Childcare Administrators,"3,870",0.028,18.09,18.93,"39,370",Hawaii
+679,680,"Education and Childcare Administrators, Preschool and Daycare","1,340",0.009,22.6,23.79,"49,470",Hawaii
+680,681,"Education Administrators, Kindergarten through Secondary","27,68,230",19.649,18.67,20.84,"43,340",Hawaii
+681,682,"Education Administrators, Postsecondary","2,12,900",1.511,18.13,19.85,"41,280",Hawaii
+682,683,"Education Administrators, All Other","4,29,080",3.046,18.43,20.55,"42,750",Hawaii
+683,684,Architectural and Engineering Managers,"15,09,370",10.713,21.9,21.7,"45,140",Hawaii
+684,685,Food Service Managers,"11,140",0.079,14.12,14.79,"30,770",Hawaii
+685,686,Entertainment and Recreation Managers,"1,49,290",1.06,22.89,23.83,"49,560",Idaho
+686,687,Gambling Managers,"61,930",0.44,21.71,21.6,"44,930",Idaho
+687,688,"Entertainment and Recreation Managers, Except Gambling","3,64,210",2.585,17.46,16.79,"34,930",Idaho
+688,689,Lodging Managers,"30,310",0.215,22.55,23,"47,830",Idaho
+689,690,Medical and Health Services Managers,"54,61,400",38.765,17.68,18.59,"38,670",Idaho
+690,691,Natural Sciences Managers,"39,980",0.284,25.96,27.75,"57,710",Idaho
+691,692,Postmasters and Mail Superintendents,"7,060",0.05,18.23,20.06,"41,710",Idaho
+692,693,"Property, Real Estate, and Community Association Managers","1,50,170",1.066,21.45,21.57,"44,870",Idaho
+693,694,Social and Community Service Managers,"16,820",0.119,21.49,21.42,"44,540",Idaho
+694,695,Emergency Management Directors,"27,87,070",19.782,17.75,18.79,"39,070",Idaho
+695,696,Personal Service Managers,"1,51,340",1.074,22.8,23.35,"48,570",Idaho
+696,697,Funeral Home Managers,"85,460",0.607,17.48,17.7,"36,820",Idaho
+697,698,"Personal Service Managers, All Other","2,20,380",1.564,13.5,13.48,"28,040",Idaho
+698,699,"Managers, All Other","1,69,840",1.206,17.89,18.67,"38,840",Idaho
+699,700,Business and Financial Operations Occupations,"78,470",0.557,14.16,15.62,"32,490",Idaho
+700,701,Accountant,"2,38,610",1.694,22.09,21.59,"44,910",Idaho
+701,702,Attorney,"40,500",0.287,18.19,19.83,"41,250",Idaho
+702,703,Truck Driver,"1,33,850",0.95,18.23,20.11,"41,820",Idaho
+703,704,Data Analyst,"1,02,770",0.729,21.94,21.56,"44,840",Idaho
+704,705,Management Consultant,"9,83,150",6.978,14.4,15.82,"32,910",Idaho
+705,706,Engineer,"1,00,860",0.716,19.18,21.94,"45,630",Idaho
+706,707,Teacher,"1,55,080",1.101,20.75,21.13,"43,950",Idaho
+707,708,Psychologist,"22,13,750",15.713,20.21,21.97,"45,710",Idaho
+708,709,Stock Broker,"85,750",0.609,22.55,23.28,"48,420",Idaho
+709,710,Electrician,"68,310",0.485,15.89,16.48,"34,270",Idaho
+710,711,Pilot,"2,91,380",2.068,21.88,22.49,"46,780",Idaho
+711,712,Investment Banker,"97,050",0.689,22.44,22.61,"47,030",Idaho
+712,713,Financial Advisor,"1,94,330",1.379,21.18,22.43,"46,650",Idaho
+713,714,Police,"24,000",0.17,21.98,22.81,"47,430",Idaho
+714,715,Registered Nurse,"5,27,000",3.741,24.87,25.71,"53,480",Idaho
+715,716,Management Occupations,"79,320",0.563,25.14,25.58,"53,210",Idaho
+716,717,Top Executives,"3,35,540",2.382,25.21,26.14,"54,370",Idaho
+717,718,Chief Executives,"1,12,130",0.796,23.34,24.52,"51,010",Idaho
+718,719,General and Operations Managers,"3,67,200",2.606,23.1,25.11,"52,220",Idaho
+719,720,Legislators,"7,95,360",5.645,17.74,18.37,"38,210",Idaho
+720,721,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","54,760",0.389,18.08,19.01,"39,540",Idaho
+721,722,Advertising and Promotions Managers,"31,04,790",22.038,19.08,21.76,"45,250",Idaho
+722,723,Marketing and Sales Managers,"4,66,910",3.314,29.84,32.15,"66,870",Idaho
+723,724,Marketing Managers,"1,55,250",1.102,22.94,25.26,"52,540",Idaho
+724,725,Sales Managers,"6,56,640",4.661,18.01,19.11,"39,740",Idaho
+725,726,Public Relations and Fundraising Managers,"18,25,980",12.961,18.21,19.75,"41,080",Idaho
+726,727,Public Relations Managers,"32,54,180",23.098,17.88,18.98,"39,480",Idaho
+727,728,Fundraising Managers,"1,89,100",1.342,17.72,18.07,"37,590",Idaho
+728,729,Operations Specialties Managers,"1,47,170",1.045,17.13,17.28,"35,940",Idaho
+729,730,Administrative Services and Facilities Managers,"41,930",0.298,21.17,20.85,"43,370",Idaho
+730,731,Administrative Services Managers,"7,600",0.054,22.55,24.49,"50,930",Idaho
+731,732,Facilities Managers,"2,18,300",1.549,21.89,22.02,"45,790",Idaho
+732,733,Computer and Information Systems Managers,"69,400",0.493,15.65,16.54,"34,390",Idaho
+733,734,Financial Managers,"25,78,180",18.3,17.81,18.75,"38,990",Idaho
+734,735,Industrial Production Managers,"32,920",0.234,17.61,17.84,"37,110",Idaho
+735,736,Purchasing Managers,"5,340",0.038,21.12,22.12,"46,010",Idaho
+736,737,"Transportation, Storage, and Distribution Managers","6,190",0.044,23.16,25.68,"53,420",Idaho
+737,738,Compensation and Benefits Managers,"1,47,140",1.044,18.22,20.47,"42,580",Idaho
+738,739,Human Resources Managers,"4,52,490",3.212,14.36,16.7,"34,730",Idaho
+739,740,Training and Development Managers,"25,770",0.183,23.38,26.18,"54,450",Idaho
+740,741,Other Management Occupations,"3,83,760",2.724,14.27,15.6,"32,450",Idaho
+741,742,"Farmers, Ranchers, and Other Agricultural Managers","13,630",0.097,21.7,22.8,"47,430",Idaho
+742,743,Construction Managers,950,0.007,19.28,20.81,"43,270",Idaho
+743,744,Education and Childcare Administrators,"25,560",0.181,14.25,14.62,"30,400",Idaho
+744,745,"Education and Childcare Administrators, Preschool and Daycare","3,43,630",2.439,14.27,15.37,"31,980",Idaho
+745,746,"Education Administrators, Kindergarten through Secondary","26,180",0.186,17.48,17.44,"36,280",Idaho
+746,747,"Education Administrators, Postsecondary","2,77,200",1.968,14.25,15.11,"31,440",Idaho
+747,748,"Education Administrators, All Other","34,140",0.242,14.25,15.46,"32,150",Idaho
+748,749,Architectural and Engineering Managers,"6,100",0.043,15.65,17.88,"37,190",Idaho
+749,750,Food Service Managers,"42,330",0.3,18.77,20.83,"43,320",Idaho
+750,751,Entertainment and Recreation Managers,"6,300",0.045,14.69,16.2,"33,690",Indiana
+751,752,Gambling Managers,"36,030",0.256,22.27,21.63,"45,000",Indiana
+752,753,"Entertainment and Recreation Managers, Except Gambling","4,170",0.03,22.94,25.85,"53,760",Indiana
+753,754,Lodging Managers,"25,510",0.181,22.31,21.14,"43,960",Indiana
+754,755,Medical and Health Services Managers,"3,260",0.023,18.18,19.96,"41,520",Indiana
+755,756,Natural Sciences Managers,"3,080",0.022,22.16,21.84,"45,430",Indiana
+756,757,Postmasters and Mail Superintendents,"58,48,950",41.515,23.18,26.87,"55,900",Indiana
+757,758,"Property, Real Estate, and Community Association Managers","6,65,870",4.726,34.62,36.09,"75,060",Indiana
+758,759,Social and Community Service Managers,"43,62,080",30.962,23.01,26.03,"54,140",Indiana
+759,760,Emergency Management Directors,"12,920",0.092,30.91,33.21,"69,070",Indiana
+760,761,Personal Service Managers,"64,950",0.461,27.38,28.78,"59,870",Indiana
+761,762,Funeral Home Managers,"55,950",0.397,28.53,29.53,"61,430",Indiana
+762,763,"Personal Service Managers, All Other","9,000",0.064,22.89,24.12,"50,170",Indiana
+763,764,"Managers, All Other","6,68,060",4.742,23.2,26.53,"55,190",Indiana
+764,765,Business and Financial Operations Occupations,"83,600",0.593,22.74,24.95,"51,890",Indiana
+765,766,Accountant,"19,790",0.14,22.42,23.42,"48,710",Indiana
+766,767,Attorney,"18,300",0.13,23.11,25.9,"53,880",Indiana
+767,768,Truck Driver,"4,340",0.031,18.82,21.34,"44,380",Indiana
+768,769,Data Analyst,"41,160",0.292,22.99,25.64,"53,330",Indiana
+769,770,Management Consultant,"1,89,240",1.343,22.77,24.52,"51,000",Indiana
+770,771,Engineer,"1,86,600",1.324,22.76,24.47,"50,900",Indiana
+771,772,Teacher,"2,640",0.019,23.4,28.07,"58,380",Indiana
+772,773,Psychologist,"9,68,760",6.876,18.16,21.22,"44,130",Indiana
+773,774,Stock Broker,"4,52,780",3.214,23.22,26.87,"55,890",Indiana
+774,775,Electrician,"44,200",0.314,22.58,24.32,"50,590",Indiana
+775,776,Pilot,"3,760",0.027,36.66,36.51,"75,950",Indiana
+776,777,Investment Banker,"4,04,820",2.873,23.25,27.06,"56,280",Indiana
+777,778,Financial Advisor,"1,11,650",0.792,23.24,27,"56,160",Indiana
+778,779,Police,"97,070",0.689,23.09,26.35,"54,810",Indiana
+779,780,Registered Nurse,"14,580",0.104,29.37,31.32,"65,140",Indiana
+780,781,Management Occupations,"6,50,580",4.618,28.87,30.44,"63,310",Indiana
+781,782,Top Executives,"52,700",0.374,22.68,24.98,"51,950",Indiana
+782,783,Chief Executives,"58,370",0.414,22.48,24.18,"50,300",Indiana
+783,784,General and Operations Managers,"30,360",0.215,19.17,21.54,"44,810",Indiana
+784,785,Legislators,"28,010",0.199,23.2,27.05,"56,260",Indiana
+785,786,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","2,16,560",1.537,21.94,22.69,"47,180",Indiana
+786,787,Advertising and Promotions Managers,"2,14,220",1.52,21.92,22.66,"47,140",Indiana
+787,788,Marketing and Sales Managers,"2,340",0.017,22.89,24.79,"51,560",Indiana
+788,789,Marketing Managers,"4,50,940",3.201,28.51,29.93,"62,250",Indiana
+789,790,Sales Managers,"33,330",0.237,22.11,23.32,"48,510",Indiana
+790,791,Public Relations and Fundraising Managers,"4,17,620",2.964,28.79,30.46,"63,350",Indiana
+791,792,Public Relations Managers,"26,980",0.192,23.24,26.35,"54,810",Indiana
+792,793,Fundraising Managers,"16,420",0.117,23.48,28.35,"58,960",Indiana
+793,794,Operations Specialties Managers,"1,29,890",0.922,22.65,23.51,"48,890",Indiana
+794,795,Administrative Services and Facilities Managers,"1,22,630",0.87,25.69,28.25,"58,760",Indiana
+795,796,Administrative Services Managers,"68,620",0.487,28.15,29.46,"61,270",Indiana
+796,797,Facilities Managers,"16,420",0.117,22.92,24.38,"50,710",Indiana
+797,798,Computer and Information Systems Managers,"2,06,900",1.469,17.55,17.95,"37,340",Indiana
+798,799,Financial Managers,"18,210",0.129,18.21,20.85,"43,370",Indiana
+799,800,Industrial Production Managers,"27,540",0.195,17.64,17.95,"37,340",Indiana
+800,801,Purchasing Managers,"72,150",0.512,17.48,17.66,"36,720",Indiana
+801,802,"Transportation, Storage, and Distribution Managers","8,940",0.063,16.04,16.96,"35,270",Indiana
+802,803,Compensation and Benefits Managers,"45,930",0.326,17.18,17.47,"36,350",Indiana
+803,804,Human Resources Managers,"6,830",0.048,17.48,17.31,"36,000",Indiana
+804,805,Training and Development Managers,"27,300",0.194,17.64,18.08,"37,610",Indiana
+805,806,Other Management Occupations,"4,30,760",3.058,23.04,26.28,"54,670",Indiana
+806,807,"Farmers, Ranchers, and Other Agricultural Managers","1,17,830",0.836,29.63,32.93,"68,480",Indiana
+807,808,Construction Managers,"22,510",0.16,47.05,43.91,"91,320",Indiana
+808,809,Education and Childcare Administrators,"24,470",0.174,18.12,19.78,"41,140",Indiana
+809,810,"Education and Childcare Administrators, Preschool and Daycare","44,240",0.314,22.26,23.69,"49,280",Indiana
+810,811,"Education Administrators, Kindergarten through Secondary","1,41,150",1.002,22.06,21.32,"44,340",Indiana
+811,812,"Education Administrators, Postsecondary","21,030",0.149,29.66,29.22,"60,770",Indiana
+812,813,"Education Administrators, All Other","28,620",0.203,21.54,21.82,"45,390",Indiana
+813,814,Architectural and Engineering Managers,"30,920",0.219,19.16,21.81,"45,370",Indiana
+814,815,Food Service Managers,"1,83,340",1.301,22.89,24.95,"51,900",Indiana
+815,816,Entertainment and Recreation Managers,"51,910",0.368,23.43,27.14,"56,460",Iowa
+816,817,Gambling Managers,"7,880",0.056,22.71,25.07,"52,140",Iowa
+817,818,"Entertainment and Recreation Managers, Except Gambling","11,170",0.079,27.1,29.73,"61,840",Iowa
+818,819,Lodging Managers,"32,870",0.233,23.28,26.76,"55,660",Iowa
+819,820,Medical and Health Services Managers,"51,520",0.366,22.78,24.52,"51,000",Iowa
+820,821,Natural Sciences Managers,"35,720",0.254,22.47,23.97,"49,850",Iowa
+821,822,Postmasters and Mail Superintendents,"15,800",0.112,23.2,25.77,"53,600",Iowa
+822,823,"Property, Real Estate, and Community Association Managers","5,370",0.038,25.5,27.44,"57,070",Iowa
+823,824,Social and Community Service Managers,"24,200",0.172,28.77,27.85,"57,920",Iowa
+824,825,Emergency Management Directors,"14,740",0.105,28.99,27.61,"57,430",Iowa
+825,826,Personal Service Managers,"1,850",0.013,28.74,28.45,"59,170",Iowa
+826,827,Funeral Home Managers,"4,450",0.032,27.84,27.56,"57,330",Iowa
+827,828,"Personal Service Managers, All Other","3,150",0.022,29.45,28.99,"60,290",Iowa
+828,829,"Managers, All Other","4,450",0.032,18.12,20.02,"41,630",Iowa
+829,830,Business and Financial Operations Occupations,"34,520",0.245,18.71,21.51,"44,730",Iowa
+830,831,Accountant,"5,980",0.042,18.15,19.65,"40,860",Iowa
+831,832,Attorney,"5,380",0.038,23.15,24.5,"50,960",Iowa
+832,833,Truck Driver,"55,74,410",39.567,23.05,25.66,"53,380",Iowa
+833,834,Data Analyst,"5,26,240",3.735,34.26,35.38,"73,590",Iowa
+834,835,Management Consultant,"4,99,670",3.547,26.84,27.53,"57,260",Iowa
+835,836,Engineer,"86,420",0.613,19.7,21.24,"44,170",Iowa
+836,837,Teacher,"1,86,530",1.324,29.02,29.09,"60,510",Iowa
+837,838,Psychologist,"13,700",0.097,29.02,30.05,"62,500",Iowa
+838,839,Stock Broker,"1,72,830",1.227,29.02,29.02,"60,350",Iowa
+839,840,Electrician,"2,26,720",1.609,28.26,28.65,"59,590",Iowa
+840,841,Pilot,"18,910",0.134,33.31,33.59,"69,860",Iowa
+841,842,Investment Banker,"15,880",0.113,22.55,23.43,"48,740",Iowa
+842,843,Financial Advisor,"10,710",0.076,37.14,33.97,"70,650",Iowa
+843,844,Police,"50,780",0.36,29.68,30.88,"64,230",Iowa
+844,845,Registered Nurse,"22,490",0.16,44.91,42.13,"87,640",Iowa
+845,846,Management Occupations,"9,000",0.064,19.55,21.01,"43,690",Iowa
+846,847,Top Executives,"21,540",0.153,21.54,22.18,"46,120",Iowa
+847,848,Chief Executives,"77,420",0.55,23.23,25.08,"52,170",Iowa
+848,849,General and Operations Managers,"15,70,020",11.144,22.79,24.23,"50,400",Iowa
+849,850,Legislators,"1,25,440",0.89,31.43,33.4,"69,470",Iowa
+850,851,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","7,83,310",5.56,22.55,23.22,"48,310",Iowa
+851,852,Advertising and Promotions Managers,"1,37,300",0.975,22.73,24.36,"50,660",Iowa
+852,853,Marketing and Sales Managers,"16,230",0.115,18.23,19.56,"40,690",Iowa
+853,854,Marketing Managers,"6,29,780",4.47,22.54,23.07,"47,990",Iowa
+854,855,Sales Managers,"2,61,420",1.856,23.41,25.49,"53,020",Iowa
+855,856,Public Relations and Fundraising Managers,"2,03,060",1.441,25.85,26.87,"55,900",Iowa
+856,857,Public Relations Managers,"35,030",0.249,22.55,22.71,"47,250",Iowa
+857,858,Fundraising Managers,"1,45,230",1.031,27.9,27.54,"57,280",Iowa
+858,859,Operations Specialties Managers,"22,800",0.162,28.97,29.04,"60,400",Iowa
+859,860,Administrative Services and Facilities Managers,"72,800",0.517,18.78,20.53,"42,690",Iowa
+860,861,Administrative Services Managers,"23,080",0.164,22.46,22.43,"46,660",Iowa
+861,862,Facilities Managers,"15,020",0.107,18.35,20.18,"41,970",Iowa
+862,863,Computer and Information Systems Managers,"34,700",0.246,18.05,19.41,"40,360",Iowa
+863,864,Financial Managers,"1,23,980",0.88,14.6,16.51,"34,340",Iowa
+864,865,Industrial Production Managers,"14,760",0.105,16.68,16.52,"34,360",Iowa
+865,866,Purchasing Managers,"16,030",0.114,20.94,21.6,"44,930",Iowa
+866,867,"Transportation, Storage, and Distribution Managers","93,180",0.661,14.22,15.63,"32,520",Iowa
+867,868,Compensation and Benefits Managers,"29,78,490",21.141,22.71,24.39,"50,730",Iowa
+868,869,Human Resources Managers,"68,170",0.484,25.95,28.78,"59,860",Iowa
+869,870,Training and Development Managers,"23,300",0.165,21.66,21.88,"45,520",Iowa
+870,871,Other Management Occupations,"44,870",0.318,30.18,32.36,"67,310",Iowa
+871,872,"Farmers, Ranchers, and Other Agricultural Managers","3,56,960",2.534,23.38,26.29,"54,690",Iowa
+872,873,Construction Managers,"28,120",0.2,21.31,21.8,"45,340",Iowa
+873,874,Education and Childcare Administrators,"4,70,650",3.341,28.55,28.05,"58,350",Iowa
+874,875,"Education and Childcare Administrators, Preschool and Daycare","3,73,090",2.648,28.77,28.26,"58,780",Iowa
+875,876,"Education Administrators, Kindergarten through Secondary","57,660",0.409,23.51,25.75,"53,570",Iowa
+876,877,"Education Administrators, Postsecondary","39,240",0.279,29,29.45,"61,260",Iowa
+877,878,"Education Administrators, All Other",660,0.005,26.08,26.33,"54,760",Iowa
+878,879,Architectural and Engineering Managers,"2,25,460",1.6,35.83,34.37,"71,500",Iowa
+879,880,Food Service Managers,"1,23,940",0.88,37.65,38.01,"79,060",Iowa
+880,881,Entertainment and Recreation Managers,"1,01,530",0.721,28.94,29.93,"62,250",Kansas
+881,882,Gambling Managers,"74,530",0.529,23.38,26.38,"54,870",Kansas
+882,883,"Entertainment and Recreation Managers, Except Gambling","2,340",0.017,18.36,21.28,"44,260",Kansas
+883,884,Lodging Managers,"53,400",0.379,24,27.13,"56,420",Kansas
+884,885,Medical and Health Services Managers,"5,710",0.04,17.87,19.11,"39,740",Kansas
+885,886,Natural Sciences Managers,"1,970",0.014,21.27,21.86,"45,460",Kansas
+886,887,Postmasters and Mail Superintendents,"11,110",0.079,27.73,28.4,"59,070",Kansas
+887,888,"Property, Real Estate, and Community Association Managers","14,16,740",10.056,20.76,21.6,"44,920",Kansas
+888,889,Social and Community Service Managers,"10,100",0.072,27.05,28.16,"58,580",Kansas
+889,890,Emergency Management Directors,"3,27,750",2.326,18.28,21.01,"43,710",Kansas
+890,891,Personal Service Managers,"27,540",0.196,18.77,20.2,"42,010",Kansas
+891,892,Funeral Home Managers,"2,670",0.019,29.02,39.43,"82,010",Kansas
+892,893,"Personal Service Managers, All Other","15,380",0.109,22.55,22.98,"47,810",Kansas
+893,894,"Managers, All Other","3,530",0.025,17.48,17.23,"35,830",Kansas
+894,895,Business and Financial Operations Occupations,"17,980",0.128,23.14,25.05,"52,100",Kansas
+895,896,Accountant,"8,090",0.057,38.73,35.68,"74,220",Kansas
+896,897,Attorney,"88,480",0.628,15.91,16.87,"35,090",Kansas
+897,898,Truck Driver,"1,64,070",1.165,20.46,21.82,"45,380",Kansas
+898,899,Data Analyst,"84,08,030",59.68,18.13,20.71,"43,070",Kansas
+899,900,Management Consultant,"6,29,420",4.468,29.71,32.37,"67,330",Kansas
+900,901,Engineer,"17,69,890",12.563,17.87,18.75,"39,000",Kansas
+901,902,Teacher,"33,320",0.237,23.79,26.63,"55,380",Kansas
+902,903,Psychologist,"2,83,010",2.009,18.01,19.11,"39,740",Kansas
+903,904,Stock Broker,"11,090",0.079,18.44,20.41,"42,460",Kansas
+904,905,Electrician,"2,71,920",1.93,18.01,19.05,"39,630",Kansas
+905,906,Pilot,"45,990",0.326,22.81,23.13,"48,110",Kansas
+906,907,Investment Banker,"61,070",0.434,21.87,21.99,"45,730",Kansas
+907,908,Financial Advisor,"17,380",0.123,18.1,19.4,"40,360",Kansas
+908,909,Police,560,0.004,18.16,21.48,"44,670",Kansas
+909,910,Registered Nurse,"13,28,550",9.43,17.59,18.17,"37,780",Kansas
+910,911,Management Occupations,"7,95,640",5.647,14.66,16.27,"33,830",Kansas
+911,912,Top Executives,"1,81,800",1.29,14.31,15.53,"32,300",Kansas
+912,913,Chief Executives,"3,64,480",2.587,14.56,16.04,"33,360",Kansas
+913,914,General and Operations Managers,"1,45,930",1.036,17.33,17.15,"35,670",Kansas
+914,915,Legislators,"1,32,100",0.938,14.29,15.23,"31,680",Kansas
+915,916,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","86,450",0.614,14.38,15.39,"32,010",Kansas
+916,917,Advertising and Promotions Managers,"2,49,360",1.77,17.03,17.13,"35,630",Kansas
+917,918,Marketing and Sales Managers,"21,050",0.149,17.06,17.44,"36,280",Kansas
+918,919,Marketing Managers,"1,55,240",1.102,17.2,17.4,"36,190",Kansas
+919,920,Sales Managers,"26,710",0.19,17.26,17.03,"35,430",Kansas
+920,921,Public Relations and Fundraising Managers,"46,360",0.329,15.33,16.16,"33,600",Kansas
+921,922,Public Relations Managers,"16,33,980",11.598,20.65,21.56,"44,840",Kansas
+922,923,Fundraising Managers,"1,02,640",0.729,18.55,20.53,"42,710",Kansas
+923,924,Operations Specialties Managers,"59,490",0.422,18.15,19.48,"40,520",Kansas
+924,925,Administrative Services and Facilities Managers,"11,500",0.082,21.4,21.35,"44,410",Kansas
+925,926,Administrative Services Managers,"31,650",0.225,22.22,22.22,"46,210",Kansas
+926,927,Facilities Managers,"2,88,810",2.05,18.13,19.59,"40,740",Kansas
+927,928,Computer and Information Systems Managers,"1,79,630",1.275,18.09,19.23,"40,000",Kansas
+928,929,Financial Managers,"6,810",0.048,18.55,20.79,"43,240",Kansas
+929,930,Industrial Production Managers,"67,750",0.481,18.05,19.25,"40,030",Kansas
+930,931,Purchasing Managers,"19,690",0.14,21.27,21.28,"44,270",Kansas
+931,932,"Transportation, Storage, and Distribution Managers","14,920",0.106,22.53,22.64,"47,100",Kansas
+932,933,Compensation and Benefits Managers,"3,33,220",2.365,22.95,23.57,"49,020",Kansas
+933,934,Human Resources Managers,"22,110",0.157,22.42,22.11,"45,990",Kansas
+934,935,Training and Development Managers,"15,540",0.11,22.45,22.33,"46,440",Kansas
+935,936,Other Management Occupations,"6,570",0.047,22.04,21.59,"44,910",Kansas
+936,937,"Farmers, Ranchers, and Other Agricultural Managers","5,780",0.041,23.79,26.8,"55,740",Kansas
+937,938,Construction Managers,"3,690",0.026,26.75,28.4,"59,080",Kansas
+938,939,Education and Childcare Administrators,"2,090",0.015,23.12,23.96,"49,840",Kansas
+939,940,"Education and Childcare Administrators, Preschool and Daycare","1,76,820",1.255,17.59,18.13,"37,720",Kansas
+940,941,"Education Administrators, Kindergarten through Secondary","13,610",0.097,18.13,19.22,"39,980",Kansas
+941,942,"Education Administrators, Postsecondary","1,63,210",1.158,17.48,18.04,"37,530",Kansas
+942,943,"Education Administrators, All Other","1,34,880",0.957,18.09,19.63,"40,830",Kansas
+943,944,Architectural and Engineering Managers,"63,630",0.452,27.41,26.99,"56,150",Kansas
+944,945,Food Service Managers,"4,27,580",3.035,22.55,23.04,"47,910",Kansas
+945,946,Entertainment and Recreation Managers,"3,97,600",2.822,22.6,23.21,"48,290",Kentucky
+946,947,Gambling Managers,"29,980",0.213,18.55,20.65,"42,950",Kentucky
+947,948,"Entertainment and Recreation Managers, Except Gambling","78,530",0.557,18.09,19.68,"40,940",Kentucky
+948,949,Lodging Managers,"14,540",0.103,18.49,19.98,"41,560",Kentucky
+949,950,Medical and Health Services Managers,"6,840",0.049,24.85,25.16,"52,340",Kentucky
+950,951,Natural Sciences Managers,"32,310",0.229,17.89,18.55,"38,580",Kentucky
+951,952,Postmasters and Mail Superintendents,"6,100",0.043,18.48,20.99,"43,660",Kentucky
+952,953,"Property, Real Estate, and Community Association Managers","18,740",0.133,17.78,18.98,"39,480",Kentucky
+953,954,Social and Community Service Managers,"2,11,930",1.504,18.13,19.55,"40,660",Kentucky
+954,955,Emergency Management Directors,"25,840",0.183,20.49,21.06,"43,800",Kentucky
+955,956,Personal Service Managers,"1,45,290",1.031,18.16,19.77,"41,120",Kentucky
+956,957,Funeral Home Managers,"40,810",0.29,17.59,17.82,"37,060",Kentucky
+957,958,"Personal Service Managers, All Other","4,45,950",3.165,14.14,15,"31,210",Kentucky
+958,959,"Managers, All Other","1,57,400",1.117,13.63,13.38,"27,830",Kentucky
+959,960,Business and Financial Operations Occupations,"26,910",0.191,13.79,13.52,"28,110",Kentucky
+960,961,Accountant,"1,16,220",0.825,14.27,14.85,"30,880",Kentucky
+961,962,Attorney,"9,240",0.066,14.31,15.84,"32,950",Kentucky
+962,963,Truck Driver,"5,620",0.04,15.12,16.77,"34,890",Kentucky
+963,964,Data Analyst,"3,610",0.026,13.73,14.38,"29,920",Kentucky
+964,965,Management Consultant,"21,450",0.152,14.99,16.65,"34,630",Kentucky
+965,966,Engineer,"4,170",0.03,14.39,15.07,"31,350",Kentucky
+966,967,Teacher,"17,270",0.123,15.11,17.03,"35,430",Kentucky
+967,968,Psychologist,"56,700",0.402,14.45,15.92,"33,110",Kentucky
+968,969,Stock Broker,"6,240",0.044,14.39,15.36,"31,940",Kentucky
+969,970,Electrician,"11,970",0.085,14.41,15.91,"33,100",Kentucky
+970,971,Pilot,"16,330",0.116,16.34,16.17,"33,640",Kentucky
+971,972,Investment Banker,"22,160",0.157,14.44,15.89,"33,050",Kentucky
+972,973,Financial Advisor,"58,030",0.412,17.8,18.77,"39,050",Kentucky
+973,974,Police,"14,040",0.1,18.05,19.52,"40,600",Kentucky
+974,975,Registered Nurse,"3,220",0.023,28.2,30.81,"64,070",Kentucky
+975,976,Management Occupations,"28,020",0.199,17.99,18.38,"38,220",Kentucky
+976,977,Top Executives,"12,750",0.091,14.31,15.79,"32,840",Kentucky
+977,978,Chief Executives,"2,30,400",1.635,17.64,18.04,"37,520",Kentucky
+978,979,General and Operations Managers,"93,070",0.661,18.05,19.27,"40,070",Kentucky
+979,980,Legislators,"16,300",0.116,17.59,17.94,"37,310",Kentucky
+980,981,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",550,0.004,27.6,27.19,"56,560",Kentucky
+981,982,Advertising and Promotions Managers,340,0.002,29.22,28.87,"60,040",Kentucky
+982,983,Marketing and Sales Managers,210,0.002,22.56,24.53,"51,020",Kentucky
+983,984,Marketing Managers,"1,12,560",0.799,17.23,17.04,"35,450",Kentucky
+984,985,Sales Managers,"45,350",0.322,16.99,16.96,"35,280",Kentucky
+985,986,Public Relations and Fundraising Managers,"67,210",0.477,17.35,17.1,"35,560",Kentucky
+986,987,Public Relations Managers,"7,910",0.056,17.12,17.35,"36,080",Kentucky
+987,988,Fundraising Managers,"2,80,900",1.994,29.49,31.83,"66,210",Kentucky
+988,989,Operations Specialties Managers,"43,440",0.308,45.57,42.99,"89,410",Kentucky
+989,990,Administrative Services and Facilities Managers,"4,820",0.034,50.13,53.47,"1,11,220",Kentucky
+990,991,Administrative Services Managers,"9,660",0.069,47.37,45.92,"95,520",Kentucky
+991,992,Facilities Managers,"28,960",0.206,38.87,40.26,"83,740",Kentucky
+992,993,Computer and Information Systems Managers,"29,820",0.212,30.53,33.9,"70,510",Kentucky
+993,994,Financial Managers,"1,21,150",0.86,23.02,25.15,"52,320",Kentucky
+994,995,Industrial Production Managers,"86,500",0.614,36.86,34.88,"72,540",Kentucky
+995,996,Purchasing Managers,"21,740",0.154,33.75,33.18,"69,020",Kentucky
+996,997,"Transportation, Storage, and Distribution Managers","15,110",0.107,37.43,37.01,"76,970",Kentucky
+997,998,Compensation and Benefits Managers,"34,230",0.243,38.24,38.7,"80,500",Kentucky
+998,999,Human Resources Managers,"15,420",0.109,24.16,26.67,"55,480",Kentucky
+999,1000,Training and Development Managers,"24,09,900",17.105,18.13,20.11,"41,820",Kentucky
+1000,1001,Other Management Occupations,"1,54,790",1.099,22.88,24.4,"50,760",Kentucky
+1001,1002,"Farmers, Ranchers, and Other Agricultural Managers","1,06,170",0.754,23.12,25.22,"52,450",Kentucky
+1002,1003,Construction Managers,"48,620",0.345,22.13,22.62,"47,060",Kentucky
+1003,1004,Education and Childcare Administrators,"1,55,920",1.107,18.35,20.14,"41,900",Kentucky
+1004,1005,"Education and Childcare Administrators, Preschool and Daycare","31,800",0.226,18.63,20.57,"42,790",Kentucky
+1005,1006,"Education Administrators, Kindergarten through Secondary","15,680",0.111,17.15,17.3,"35,990",Kentucky
+1006,1007,"Education Administrators, Postsecondary","1,08,440",0.77,18.47,20.43,"42,490",Kentucky
+1007,1008,"Education Administrators, All Other","63,850",0.453,18.1,18.9,"39,300",Kentucky
+1008,1009,Architectural and Engineering Managers,"7,920",0.056,14.54,16.51,"34,330",Kentucky
+1009,1010,Food Service Managers,"55,930",0.397,18.18,19.23,"40,010",Kentucky
+1010,1011,Entertainment and Recreation Managers,"56,570",0.402,18.1,19.25,"40,050",Louisiana
+1011,1012,Gambling Managers,"14,180",0.101,21.01,21.11,"43,910",Louisiana
+1012,1013,"Entertainment and Recreation Managers, Except Gambling","5,51,380",3.914,18.55,21.54,"44,810",Louisiana
+1013,1014,Lodging Managers,"24,350",0.173,22.42,22.64,"47,090",Louisiana
+1014,1015,Medical and Health Services Managers,"68,380",0.485,18.79,21.52,"44,770",Louisiana
+1015,1016,Natural Sciences Managers,"34,150",0.242,22,22.75,"47,320",Louisiana
+1016,1017,Postmasters and Mail Superintendents,"15,300",0.109,21.77,22.27,"46,320",Louisiana
+1017,1018,"Property, Real Estate, and Community Association Managers","18,930",0.134,17.92,18.71,"38,910",Louisiana
+1018,1019,Social and Community Service Managers,"3,58,640",2.546,17.29,17.67,"36,750",Louisiana
+1019,1020,Emergency Management Directors,"1,57,250",1.116,18.59,20.9,"43,480",Louisiana
+1020,1021,Personal Service Managers,"11,850",0.084,17.95,18.39,"38,250",Louisiana
+1021,1022,Funeral Home Managers,"1,45,410",1.032,18.81,21.11,"43,900",Louisiana
+1022,1023,"Personal Service Managers, All Other","24,020",0.17,19.17,22.07,"45,910",Louisiana
+1023,1024,"Managers, All Other","5,740",0.041,17.59,19.37,"40,300",Louisiana
+1024,1025,Business and Financial Operations Occupations,"1,83,630",1.303,22.78,23.32,"48,500",Louisiana
+1025,1026,Accountant,"1,57,840",1.12,22.42,22.23,"46,240",Louisiana
+1026,1027,Attorney,"25,800",0.183,29.22,29.98,"62,360",Louisiana
+1027,1028,Truck Driver,"5,91,200",4.196,17.23,17.75,"36,920",Louisiana
+1028,1029,Data Analyst,"12,510",0.089,18.09,18.55,"38,580",Louisiana
+1029,1030,Management Consultant,"13,580",0.096,16.87,17.22,"35,820",Louisiana
+1030,1031,Engineer,"7,500",0.053,19.42,20.63,"42,910",Louisiana
+1031,1032,Teacher,"7,110",0.05,17.59,17.77,"36,970",Louisiana
+1032,1033,Psychologist,"38,420",0.273,18.03,18.76,"39,020",Louisiana
+1033,1034,Stock Broker,"87,480",0.621,21.55,21.24,"44,180",Louisiana
+1034,1035,Electrician,"17,240",0.122,23.05,23,"47,840",Louisiana
+1035,1036,Pilot,"2,02,860",1.44,14.42,15.82,"32,910",Louisiana
+1036,1037,Investment Banker,"2,04,500",1.452,15.83,17.42,"36,230",Louisiana
+1037,1038,Financial Advisor,"1,26,39,920",89.717,17.72,19.88,"41,340",Louisiana
+1038,1039,Police,"5,57,850",3.96,26.36,28.19,"58,630",Louisiana
+1039,1040,Registered Nurse,"8,590",0.061,25.74,29.84,"62,080",Louisiana
+1040,1041,Management Occupations,"5,49,260",3.899,26.37,28.16,"58,580",Louisiana
+1041,1042,Top Executives,"2,54,820",1.809,32.72338832,37.32147119,"1,19,590",Louisiana
+1042,1043,Chief Executives,"1,24,080",0.881,32.72338832,37.32147119,"1,69,540",Louisiana
+1043,1044,General and Operations Managers,"81,310",0.577,32.72338832,37.32147119,"1,98,190",Louisiana
+1044,1045,Legislators,"42,770",0.304,32.72338832,37.32147119,"1,15,080",Louisiana
+1045,1046,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","33,830",0.24,43.56,48.32,"1,00,510",Louisiana
+1046,1047,Advertising and Promotions Managers,"21,230",0.151,62.38,61.5,"1,27,920",Louisiana
+1047,1048,Marketing and Sales Managers,"12,610",0.089,23.02,26.13,"54,360",Louisiana
+1048,1049,Marketing Managers,"96,900",0.688,32.72338832,37.32147119,"62,280",Louisiana
+1049,1050,Sales Managers,"41,47,650",29.44,20.52,21.31,"44,330",Louisiana
+1050,1051,Public Relations and Fundraising Managers,"11,710",0.083,14,14.93,"31,060",Louisiana
+1051,1052,Public Relations Managers,"33,90,490",24.065,21.91,21.85,"45,460",Louisiana
+1052,1053,Fundraising Managers,"4,77,020",3.386,14.08,15.37,"31,970",Louisiana
+1053,1054,Operations Specialties Managers,"19,03,420",13.51,23.23,24.2,"50,340",Louisiana
+1054,1055,Administrative Services and Facilities Managers,"10,10,040",7.169,18.4,20.5,"42,630",Louisiana
+1055,1056,Administrative Services Managers,"6,96,760",4.946,18.05,19.06,"39,640",Louisiana
+1056,1057,Facilities Managers,"3,61,420",2.565,18.23,18.63,"38,750",Louisiana
+1057,1058,Computer and Information Systems Managers,"1,45,720",1.034,23.37,24.67,"51,310",Louisiana
+1058,1059,Financial Managers,"1,75,660",1.247,14.42,15.66,"32,570",Louisiana
+1059,1060,Industrial Production Managers,"13,950",0.099,14.09,14.45,"30,050",Louisiana
+1060,1061,Purchasing Managers,"48,690",0.346,14.71,17.51,"36,410",Louisiana
+1061,1062,"Transportation, Storage, and Distribution Managers","1,19,120",0.846,30.85,32.85,"68,330",Louisiana
+1062,1063,Compensation and Benefits Managers,"43,440",0.308,37.83,34.33,"71,410",Louisiana
+1063,1064,Human Resources Managers,"38,980",0.277,38.34,35.07,"72,940",Louisiana
+1064,1065,Training and Development Managers,"4,460",0.032,29.37,27.92,"58,070",Louisiana
+1065,1066,Other Management Occupations,"16,200",0.115,30.69,30.31,"63,050",Louisiana
+1066,1067,"Farmers, Ranchers, and Other Agricultural Managers","48,030",0.341,30.75,32.21,"66,990",Louisiana
+1067,1068,Construction Managers,"10,310",0.073,39.03,34.38,"71,520",Louisiana
+1068,1069,Education and Childcare Administrators,"1,140",0.008,22.88,26.03,"54,140",Louisiana
+1069,1070,"Education and Childcare Administrators, Preschool and Daycare","70,480",0.5,30.17,38.84,"80,780",Louisiana
+1070,1071,"Education Administrators, Kindergarten through Secondary","26,610",0.189,22.46,27.79,"57,800",Louisiana
+1071,1072,"Education Administrators, Postsecondary","36,220",0.257,38.47,45.31,"94,250",Louisiana
+1072,1073,"Education Administrators, All Other","33,490",0.238,39.25,47.27,"98,330",Louisiana
+1073,1074,Architectural and Engineering Managers,"2,740",0.019,18.59,21.35,"44,410",Louisiana
+1074,1075,Food Service Managers,"7,650",0.054,39.62,46.59,"96,910",Louisiana
+1075,1076,Entertainment and Recreation Managers,"2,86,680",2.035,14.39,17.26,"35,900",Maine
+1076,1077,Gambling Managers,"4,040",0.029,21.82,21.52,"44,760",Maine
+1077,1078,"Entertainment and Recreation Managers, Except Gambling","91,160",0.647,14.06,14.04,"29,210",Maine
+1078,1079,Lodging Managers,"1,23,660",0.878,14.22,14.81,"30,810",Maine
+1079,1080,Medical and Health Services Managers,"1,11,480",0.791,14.1,14.4,"29,960",Maine
+1080,1081,Natural Sciences Managers,"12,170",0.086,17.5,18.58,"38,640",Maine
+1081,1082,Postmasters and Mail Superintendents,"7,770",0.055,23.37,25.58,"53,210",Maine
+1082,1083,"Property, Real Estate, and Community Association Managers","25,070",0.178,38.35,37.32,"77,620",Maine
+1083,1084,Social and Community Service Managers,"21,240",0.151,14.65,16.53,"34,380",Maine
+1084,1085,Emergency Management Directors,"13,750",0.098,17.73,19.23,"39,990",Maine
+1085,1086,Personal Service Managers,"72,03,320",51.129,14.91,16.78,"34,900",Maine
+1086,1087,Funeral Home Managers,"28,650",0.203,17.51,17.8,"37,010",Maine
+1087,1088,"Personal Service Managers, All Other","43,400",0.308,29.92,31.38,"65,270",Maine
+1088,1089,"Managers, All Other","1,650",0.012,22.22,24.29,"50,530",Maine
+1089,1090,Business and Financial Operations Occupations,"2,610",0.019,25.14,28.1,"58,450",Maine
+1090,1091,Accountant,"7,58,290",5.382,18.45,19.69,"40,950",Maine
+1091,1092,Attorney,"61,78,560",43.855,14.58,16.14,"33,570",Maine
+1092,1093,Truck Driver,"3,51,960",2.498,14.08,14.69,"30,550",Maine
+1093,1094,Data Analyst,"27,29,010",19.37,15.02,16.8,"34,950",Maine
+1094,1095,Management Consultant,"60,880",0.432,17.79,17.63,"36,660",Maine
+1095,1096,Engineer,"5,85,270",4.154,14.39,14.88,"30,950",Maine
+1096,1097,Teacher,"24,51,430",17.4,14.48,15.87,"33,020",Maine
+1097,1098,Psychologist,"29,550",0.21,29.85,30.09,"62,590",Maine
+1098,1099,Stock Broker,"2,910",0.021,34,32.27,"67,130",Maine
+1099,1100,Electrician,"10,600",0.075,23.84,26.15,"54,400",Maine
+1100,1101,Pilot,"16,040",0.114,30.64,32.29,"67,170",Maine
+1101,1102,Investment Banker,"1,26,050",0.895,18.51,20.57,"42,780",Maine
+1102,1103,Financial Advisor,"12,090",0.086,23.75,26.6,"55,330",Maine
+1103,1104,Police,"22,470",0.159,17.38,19.32,"40,190",Maine
+1104,1105,Registered Nurse,"7,43,860",5.28,45.43,47.32,"98,420",Maine
+1105,1106,Management Occupations,"89,09,910",63.242,49.25,59.31,"1,23,370",Maine
+1106,1107,Top Executives,"32,29,990",22.926,47.46,57.94,"1,20,520",Maine
+1107,1108,Chief Executives,"2,00,480",1.423,86.31,102.41,"2,13,020",Maine
+1108,1109,General and Operations Managers,"29,84,920",21.187,47.1,55.41,"1,15,250",Maine
+1109,1110,Legislators,"44,590",0.316,30.64,35.64,"57,110",Maine
+1110,1111,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","8,38,050",5.948,61.62,69.77,"1,45,130",Maine
+1111,1112,Advertising and Promotions Managers,"22,520",0.16,61.13,68.68,"1,42,860",Maine
+1112,1113,Marketing and Sales Managers,"7,32,490",5.199,62.18,70.48,"1,46,600",Maine
+1113,1114,Marketing Managers,"2,78,690",1.978,64.92,73.77,"1,53,440",Maine
+1114,1115,Sales Managers,"4,53,800",3.221,61.3,68.46,"1,42,390",Maine
+1115,1116,Public Relations and Fundraising Managers,"83,040",0.589,57.62,63.85,"1,32,800",Maine
+1116,1117,Public Relations Managers,"59,850",0.425,60.47,66.35,"1,38,000",Maine
+1117,1118,Fundraising Managers,"23,190",0.165,48.47,57.4,"1,19,400",Maine
+1118,1119,Operations Specialties Managers,"21,16,020",15.019,61.13,67.26,"1,39,900",Maine
+1119,1120,Administrative Services and Facilities Managers,"3,25,850",2.313,47.73,52.69,"1,09,590",Maine
+1120,1121,Administrative Services Managers,"2,24,620",1.594,48.16,54.34,"1,13,030",Maine
+1121,1122,Facilities Managers,"1,01,230",0.719,47.08,49.03,"1,01,970",Maine
+1122,1123,Computer and Information Systems Managers,"4,85,190",3.444,76.45,78.33,"1,62,930",Maine
+1123,1124,Financial Managers,"6,81,070",4.834,63.32,73.78,"1,53,460",Maine
+1124,1125,Industrial Production Managers,"1,92,270",1.365,49.59,56.62,"1,17,780",Maine
+1125,1126,Purchasing Managers,"69,310",0.492,61.13,64.71,"1,34,590",Maine
+1126,1127,"Transportation, Storage, and Distribution Managers","1,44,640",1.027,47.22,50.76,"1,05,580",Maine
+1127,1128,Compensation and Benefits Managers,"15,330",0.109,61.31,67.05,"1,39,470",Maine
+1128,1129,Human Resources Managers,"1,66,530",1.182,60.69,65.67,"1,36,590",Maine
+1129,1130,Training and Development Managers,"35,830",0.254,57.76,61.92,"1,28,800",Maine
+1130,1131,Other Management Occupations,"27,25,860",19.348,46.94,51.55,"1,07,230",Maine
+1131,1132,"Farmers, Ranchers, and Other Agricultural Managers","5,220",0.037,35.12,37.71,"78,440",Maine
+1132,1133,Construction Managers,"2,84,750",2.021,47.55,52.02,"1,08,210",Maine
+1133,1134,Education and Childcare Administrators,"5,37,100",3.812,45.68,47.73,"99,280",Maine
+1134,1135,"Education and Childcare Administrators, Preschool and Daycare","56,430",0.401,22.75,25.87,"53,800",Maine
+1135,1136,"Education Administrators, Kindergarten through Secondary","2,74,710",1.95,30.64,37.64,"1,02,650",Maine
+1136,1137,"Education Administrators, Postsecondary","1,55,990",1.107,46.59,53.49,"1,11,260",Maine
+1137,1138,"Education Administrators, All Other","49,970",0.355,43.54,45.54,"94,730",Maine
+1138,1139,Architectural and Engineering Managers,"1,87,100",1.328,73.25,76.43,"1,58,970",Maine
+1139,1140,Food Service Managers,"2,10,680",1.495,28.58,30.75,"63,970",Massachusetts
+1140,1141,Entertainment and Recreation Managers,"21,460",0.152,30.42,36.75,"76,430",Massachusetts
+1141,1142,Gambling Managers,"3,660",0.026,36.98,42.88,"89,190",Massachusetts
+1142,1143,"Entertainment and Recreation Managers, Except Gambling","17,800",0.126,29.81,35.48,"73,810",Massachusetts
+1143,1144,Lodging Managers,"35,920",0.255,28.57,32.58,"67,770",Massachusetts
+1144,1145,Medical and Health Services Managers,"4,36,770",3.1,48.72,57.61,"1,19,840",Massachusetts
+1145,1146,Natural Sciences Managers,"74,760",0.531,66.3,75.05,"1,56,110",Massachusetts
+1146,1147,Postmasters and Mail Superintendents,"12,750",0.09,38.58,39.34,"81,820",Massachusetts
+1147,1148,"Property, Real Estate, and Community Association Managers","2,34,680",1.666,28.47,33.67,"70,030",Massachusetts
+1148,1149,Social and Community Service Managers,"1,56,400",1.11,35.58,36.92,"76,790",Massachusetts
+1149,1150,Emergency Management Directors,"10,320",0.073,36.89,40.77,"84,800",Massachusetts
+1150,1151,Personal Service Managers,"20,060",0.142,29.02,35.75,"74,360",Massachusetts
+1151,1150,Funeral Home Managers,"12,710",0.09,35.58,39.86,"82,900",Massachusetts
+1152,1151,"Personal Service Managers, All Other","7,350",0.052,29.02,28.65,"59,580",Massachusetts
+1153,1152,"Managers, All Other","4,97,890",3.534,59.93,62.36,"1,29,710",Massachusetts
+1154,1153,Business and Financial Operations Occupations,"90,53,790",64.263,36.81,39.72,"82,610",Massachusetts
+1155,1154,Accountant,"61,52,960",43.673,36.56,38.64,"80,380",Massachusetts
+1156,1155,Attorney,"12,480",0.089,37.7,55.97,"1,16,410",Massachusetts
+1157,1156,Truck Driver,"4,39,020",3.116,30.51,34.88,"72,540",Massachusetts
+1158,1157,Data Analyst,"2,89,580",2.055,31.11,34.06,"70,850",Massachusetts
+1159,1158,Management Consultant,"2,78,140",1.974,31.29,34.11,"70,960",Massachusetts
+1160,1159,Engineer,"11,430",0.081,30.13,32.78,"68,180",Massachusetts
+1161,1160,Teacher,"3,34,340",2.373,34.45,36.45,"75,810",Massachusetts
+1162,1161,Psychologist,"2,08,950",1.483,31.33,35.45,"73,740",Massachusetts
+1163,1162,Stock Broker,"8,05,080",5.714,30.04,34.24,"71,210",Massachusetts
+1164,1163,Electrician,"7,40,830",5.258,29.95,34,"70,720",Massachusetts
+1165,1164,Pilot,440,0.003,22.97,26.16,"54,400",Massachusetts
+1166,1165,Investment Banker,"63,810",0.453,37.03,37.05,"77,070",Massachusetts
+1167,1166,Financial Advisor,"9,33,180",6.624,39.43,45.45,"94,530",Massachusetts
+1168,1167,Police,"1,89,320",1.344,37.03,38.09,"79,230",Massachusetts
+1169,1168,Management Occupations,"89,09,910",63.242,49.25,59.31,"1,23,370",Massachusetts
+1170,1169,Top Executives,"32,29,990",22.926,47.46,57.94,"1,20,520",Massachusetts
+1171,1170,Chief Executives,"2,00,480",1.423,86.31,102.41,"2,13,020",Massachusetts
+1172,1171,General and Operations Managers,"29,84,920",21.187,47.1,55.41,"1,15,250",Massachusetts
+1173,1172,Legislators,"44,590",0.316,30.64,35.64,"57,110",Massachusetts
+1174,1173,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","8,38,050",5.948,61.62,69.77,"1,45,130",Massachusetts
+1175,1174,Advertising and Promotions Managers,"22,520",0.16,61.13,68.68,"1,42,860",Massachusetts
+1176,1175,Marketing and Sales Managers,"7,32,490",5.199,62.18,70.48,"1,46,600",Massachusetts
+1177,1176,Marketing Managers,"2,78,690",1.978,64.92,73.77,"1,53,440",Massachusetts
+1178,1177,Sales Managers,"4,53,800",3.221,61.3,68.46,"1,42,390",Massachusetts
+1179,1178,Public Relations and Fundraising Managers,"83,040",0.589,57.62,63.85,"1,32,800",Massachusetts
+1180,1179,Public Relations Managers,"59,850",0.425,60.47,66.35,"1,38,000",Massachusetts
+1181,1180,Fundraising Managers,"23,190",0.165,48.47,57.4,"1,19,400",Massachusetts
+1182,1181,Operations Specialties Managers,"21,16,020",15.019,61.13,67.26,"1,39,900",Massachusetts
+1183,1182,Administrative Services and Facilities Managers,"3,25,850",2.313,47.73,52.69,"1,09,590",Massachusetts
+1184,1183,Administrative Services Managers,"2,24,620",1.594,48.16,54.34,"1,13,030",Massachusetts
+1185,1184,Facilities Managers,"1,01,230",0.719,47.08,49.03,"1,01,970",Massachusetts
+1186,1185,Computer and Information Systems Managers,"4,85,190",3.444,76.45,78.33,"1,62,930",Massachusetts
+1187,1186,Financial Managers,"6,81,070",4.834,63.32,73.78,"1,53,460",Massachusetts
+1188,1187,Industrial Production Managers,"1,92,270",1.365,49.59,56.62,"1,17,780",Massachusetts
+1189,1188,Purchasing Managers,"69,310",0.492,61.13,64.71,"1,34,590",Massachusetts
+1190,1189,"Transportation, Storage, and Distribution Managers","1,44,640",1.027,47.22,50.76,"1,05,580",Massachusetts
+1191,1190,Compensation and Benefits Managers,"15,330",0.109,61.31,67.05,"1,39,470",Massachusetts
+1192,1191,Human Resources Managers,"1,66,530",1.182,60.69,65.67,"1,36,590",Massachusetts
+1193,1192,Training and Development Managers,"35,830",0.254,57.76,61.92,"1,28,800",Massachusetts
+1194,1193,Other Management Occupations,"27,25,860",19.348,46.94,51.55,"1,07,230",Massachusetts
+1195,1194,"Farmers, Ranchers, and Other Agricultural Managers","5,220",0.037,35.12,37.71,"78,440",Massachusetts
+1196,1195,Construction Managers,"2,84,750",2.021,47.55,52.02,"1,08,210",Massachusetts
+1197,1196,Education and Childcare Administrators,"5,37,100",3.812,45.68,47.73,"99,280",Massachusetts
+1198,1197,"Education and Childcare Administrators, Preschool and Daycare","56,430",0.401,22.75,25.87,"53,800",Massachusetts
+1199,1198,"Education Administrators, Kindergarten through Secondary","2,74,710",1.95,30.64,37.64,"1,02,650",Massachusetts
+1200,1199,"Education Administrators, Postsecondary","1,55,990",1.107,46.59,53.49,"1,11,260",Massachusetts
+1201,1200,"Education Administrators, All Other","49,970",0.355,43.54,45.54,"94,730",Massachusetts
+1202,1201,Architectural and Engineering Managers,"1,87,100",1.328,73.25,76.43,"1,58,970",Massachusetts
+1203,1202,Food Service Managers,"2,10,680",1.495,28.58,30.75,"63,970",Massachusetts
+1204,1203,Entertainment and Recreation Managers,"21,460",0.152,30.42,36.75,"76,430",Massachusetts
+1205,1204,Gambling Managers,"3,660",0.026,36.98,42.88,"89,190",New Hampshire
+1206,1205,"Entertainment and Recreation Managers, Except Gambling","17,800",0.126,29.81,35.48,"73,810",New Hampshire
+1207,1206,Lodging Managers,"35,920",0.255,28.57,32.58,"67,770",New Hampshire
+1208,1207,Medical and Health Services Managers,"4,36,770",3.1,48.72,57.61,"1,19,840",New Hampshire
+1209,1208,Natural Sciences Managers,"74,760",0.531,66.3,75.05,"1,56,110",New Hampshire
+1210,1209,Postmasters and Mail Superintendents,"12,750",0.09,38.58,39.34,"81,820",New Hampshire
+1211,1210,"Property, Real Estate, and Community Association Managers","2,34,680",1.666,28.47,33.67,"70,030",New Hampshire
+1212,1211,Social and Community Service Managers,"1,56,400",1.11,35.58,36.92,"76,790",New Hampshire
+1213,1212,Emergency Management Directors,"10,320",0.073,36.89,40.77,"84,800",New Hampshire
+1214,1213,Personal Service Managers,"20,060",0.142,29.02,35.75,"74,360",New Hampshire
+1215,1214,Funeral Home Managers,"12,710",0.09,35.58,39.86,"82,900",New Hampshire
+1216,1215,"Personal Service Managers, All Other","7,350",0.052,29.02,28.65,"59,580",New Hampshire
+1217,1216,"Managers, All Other","4,97,890",3.534,59.93,62.36,"1,29,710",New Hampshire
+1218,1217,Business and Financial Operations Occupations,"90,53,790",64.263,36.81,39.72,"82,610",New Hampshire
+1219,1218,Accountant,"61,52,960",43.673,36.56,38.64,"80,380",New Hampshire
+1220,1219,Attorney,"12,480",0.089,37.7,55.97,"1,16,410",New Hampshire
+1221,1220,Truck Driver,"4,39,020",3.116,30.51,34.88,"72,540",New Hampshire
+1222,1221,Data Analyst,"2,89,580",2.055,31.11,34.06,"70,850",New Hampshire
+1223,1222,Management Consultant,"2,78,140",1.974,31.29,34.11,"70,960",New Hampshire
+1224,1223,Engineer,"11,430",0.081,30.13,32.78,"68,180",New Hampshire
+1225,1224,Teacher,"3,34,340",2.373,34.45,36.45,"75,810",New Hampshire
+1226,1225,Psychologist,"2,08,950",1.483,31.33,35.45,"73,740",New Hampshire
+1227,1226,Stock Broker,"8,05,080",5.714,30.04,34.24,"71,210",New Hampshire
+1228,1227,Electrician,"7,40,830",5.258,29.95,34,"70,720",New Hampshire
+1229,1228,Pilot,440,0.003,22.97,26.16,"54,400",New Hampshire
+1230,1229,Investment Banker,"63,810",0.453,37.03,37.05,"77,070",New Hampshire
+1231,1230,Financial Advisor,"9,33,180",6.624,39.43,45.45,"94,530",New Hampshire
+1232,1231,Police,"1,89,320",1.344,37.03,38.09,"79,230",New Hampshire
+1233,1232,Management Occupations,"89,09,910",63.242,49.25,59.31,"1,23,370",New Hampshire
+1234,1233,Top Executives,"32,29,990",22.926,47.46,57.94,"1,20,520",New Hampshire
+1235,1234,Chief Executives,"2,00,480",1.423,86.31,102.41,"2,13,020",New Hampshire
+1236,1235,General and Operations Managers,"29,84,920",21.187,47.1,55.41,"1,15,250",New Hampshire
+1237,1236,Legislators,"44,590",0.316,30.64,35.64,"57,110",New Hampshire
+1238,1237,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","8,38,050",5.948,61.62,69.77,"1,45,130",New Hampshire
+1239,1238,Advertising and Promotions Managers,"22,520",0.16,61.13,68.68,"1,42,860",New Hampshire
+1240,1239,Marketing and Sales Managers,"7,32,490",5.199,62.18,70.48,"1,46,600",New Hampshire
+1241,1240,Marketing Managers,"2,78,690",1.978,64.92,73.77,"1,53,440",New Hampshire
+1242,1241,Sales Managers,"4,53,800",3.221,61.3,68.46,"1,42,390",New Hampshire
+1243,1242,Public Relations and Fundraising Managers,"83,040",0.589,57.62,63.85,"1,32,800",New Hampshire
+1244,1243,Public Relations Managers,"59,850",0.425,60.47,66.35,"1,38,000",New Hampshire
+1245,1244,Fundraising Managers,"23,190",0.165,48.47,57.4,"1,19,400",New Hampshire
+1246,1245,Operations Specialties Managers,"21,16,020",15.019,61.13,67.26,"1,39,900",New Hampshire
+1247,1246,Administrative Services and Facilities Managers,"3,25,850",2.313,47.73,52.69,"1,09,590",New Hampshire
+1248,1247,Administrative Services Managers,"2,24,620",1.594,48.16,54.34,"1,13,030",New Hampshire
+1249,1248,Facilities Managers,"1,01,230",0.719,47.08,49.03,"1,01,970",New Hampshire
+1250,1249,Computer and Information Systems Managers,"4,85,190",3.444,76.45,78.33,"1,62,930",New Hampshire
+1251,1250,Financial Managers,"6,81,070",4.834,63.32,73.78,"1,53,460",New Hampshire
+1252,1251,Industrial Production Managers,"1,92,270",1.365,49.59,56.62,"1,17,780",New Hampshire
+1253,1252,Purchasing Managers,"69,310",0.492,61.13,64.71,"1,34,590",New Hampshire
+1254,1253,"Transportation, Storage, and Distribution Managers","1,44,640",1.027,47.22,50.76,"1,05,580",New Hampshire
+1255,1254,Compensation and Benefits Managers,"15,330",0.109,61.31,67.05,"1,39,470",New Hampshire
+1256,1255,Human Resources Managers,"1,66,530",1.182,60.69,65.67,"1,36,590",New Hampshire
+1257,1256,Training and Development Managers,"35,830",0.254,57.76,61.92,"1,28,800",New Hampshire
+1258,1257,Other Management Occupations,"27,25,860",19.348,46.94,51.55,"1,07,230",New Hampshire
+1259,1258,"Farmers, Ranchers, and Other Agricultural Managers","5,220",0.037,35.12,37.71,"78,440",New Hampshire
+1260,1259,Construction Managers,"2,84,750",2.021,47.55,52.02,"1,08,210",New Hampshire
+1261,1260,Education and Childcare Administrators,"5,37,100",3.812,45.68,47.73,"99,280",New Hampshire
+1262,1261,"Education and Childcare Administrators, Preschool and Daycare","56,430",0.401,22.75,25.87,"53,800",New Hampshire
+1263,1262,"Education Administrators, Kindergarten through Secondary","2,74,710",1.95,30.64,37.64,"1,02,650",New Hampshire
+1264,1263,"Education Administrators, Postsecondary","1,55,990",1.107,46.59,53.49,"1,11,260",New Hampshire
+1265,1264,"Education Administrators, All Other","49,970",0.355,43.54,45.54,"94,730",New Hampshire
+1266,1265,Architectural and Engineering Managers,"1,87,100",1.328,73.25,76.43,"1,58,970",New Hampshire
+1267,1266,Food Service Managers,"2,10,680",1.495,28.58,30.75,"63,970",New Hampshire
+1268,1267,Entertainment and Recreation Managers,"21,460",0.152,30.42,36.75,"76,430",New Hampshire
+1269,1268,Gambling Managers,"3,660",0.026,36.98,42.88,"89,190",New Hampshire
+1270,1269,"Entertainment and Recreation Managers, Except Gambling","17,800",0.126,29.81,35.48,"73,810",New York
+1271,1270,Lodging Managers,"35,920",0.255,28.57,32.58,"67,770",New York
+1272,1271,Medical and Health Services Managers,"4,36,770",3.1,48.72,57.61,"1,19,840",New York
+1273,1272,Natural Sciences Managers,"74,760",0.531,66.3,75.05,"1,56,110",New York
+1274,1273,Postmasters and Mail Superintendents,"12,750",0.09,38.58,39.34,"81,820",New York
+1275,1274,"Property, Real Estate, and Community Association Managers","2,34,680",1.666,28.47,33.67,"70,030",New York
+1276,1275,Social and Community Service Managers,"1,56,400",1.11,35.58,36.92,"76,790",New York
+1277,1276,Emergency Management Directors,"10,320",0.073,36.89,40.77,"84,800",New York
+1278,1277,Personal Service Managers,"20,060",0.142,29.02,35.75,"74,360",New York
+1279,1278,Funeral Home Managers,"12,710",0.09,35.58,39.86,"82,900",New York
+1280,1279,"Personal Service Managers, All Other","7,350",0.052,29.02,28.65,"59,580",New York
+1281,1280,"Managers, All Other","4,97,890",3.534,59.93,62.36,"1,29,710",New York
+1282,1281,Business and Financial Operations Occupations,"90,53,790",64.263,36.81,39.72,"82,610",New York
+1283,1282,Accountant,"61,52,960",43.673,36.56,38.64,"80,380",New York
+1284,1283,Attorney,"12,480",0.089,37.7,55.97,"1,16,410",New York
+1285,1284,Truck Driver,"4,39,020",3.116,30.51,34.88,"72,540",New York
+1286,1285,Data Analyst,"2,89,580",2.055,31.11,34.06,"70,850",New York
+1287,1286,Management Consultant,"2,78,140",1.974,31.29,34.11,"70,960",New York
+1288,1287,Engineer,"11,430",0.081,30.13,32.78,"68,180",New York
+1289,1288,Teacher,"3,34,340",2.373,34.45,36.45,"75,810",New York
+1290,1289,Psychologist,"2,08,950",1.483,31.33,35.45,"73,740",New York
+1291,1290,Stock Broker,"8,05,080",5.714,30.04,34.24,"71,210",New York
+1292,1291,Electrician,"7,40,830",5.258,29.95,34,"70,720",New York
+1293,1292,Pilot,440,0.003,22.97,26.16,"54,400",New York
+1294,1293,Investment Banker,"63,810",0.453,37.03,37.05,"77,070",New York
+1295,1294,Financial Advisor,"9,33,180",6.624,39.43,45.45,"94,530",New York
+1296,1295,Police,"1,89,320",1.344,37.03,38.09,"79,230",New York
+1297,1296,Management Occupations,"89,09,910",63.242,49.25,59.31,"1,23,370",New York
+1298,1297,Top Executives,"32,29,990",22.926,47.46,57.94,"1,20,520",New York
+1299,1298,Chief Executives,"2,00,480",1.423,86.31,102.41,"2,13,020",New York
+1300,1299,General and Operations Managers,"29,84,920",21.187,47.1,55.41,"1,15,250",New York
+1301,1300,Legislators,"44,590",0.316,30.64,35.64,"57,110",New York
+1302,1301,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","8,38,050",5.948,61.62,69.77,"1,45,130",New York
+1303,1302,Advertising and Promotions Managers,"22,520",0.16,61.13,68.68,"1,42,860",New York
+1304,1303,Marketing and Sales Managers,"7,32,490",5.199,62.18,70.48,"1,46,600",New York
+1305,1304,Marketing Managers,"2,78,690",1.978,64.92,73.77,"1,53,440",New York
+1306,1305,Sales Managers,"4,53,800",3.221,61.3,68.46,"1,42,390",New York
+1307,1306,Public Relations and Fundraising Managers,"83,040",0.589,57.62,63.85,"1,32,800",New York
+1308,1307,Public Relations Managers,"59,850",0.425,60.47,66.35,"1,38,000",New York
+1309,1308,Fundraising Managers,"23,190",0.165,48.47,57.4,"1,19,400",New York
+1310,1309,Operations Specialties Managers,"21,16,020",15.019,61.13,67.26,"1,39,900",New York
+1311,1310,Administrative Services and Facilities Managers,"3,25,850",2.313,47.73,52.69,"1,09,590",New York
+1312,1311,Administrative Services Managers,"2,24,620",1.594,48.16,54.34,"1,13,030",New York
+1313,1312,Facilities Managers,"1,01,230",0.719,47.08,49.03,"1,01,970",New York
+1314,1313,Computer and Information Systems Managers,"4,85,190",3.444,76.45,78.33,"1,62,930",New York
+1315,1314,Financial Managers,"6,81,070",4.834,63.32,73.78,"1,53,460",New York
+1316,1315,Industrial Production Managers,"1,92,270",1.365,49.59,56.62,"1,17,780",New York
+1317,1316,Purchasing Managers,"69,310",0.492,61.13,64.71,"1,34,590",New York
+1318,1317,"Transportation, Storage, and Distribution Managers","1,44,640",1.027,47.22,50.76,"1,05,580",New York
+1319,1318,Compensation and Benefits Managers,"15,330",0.109,61.31,67.05,"1,39,470",New York
+1320,1319,Human Resources Managers,"1,66,530",1.182,60.69,65.67,"1,36,590",New York
+1321,1320,Training and Development Managers,"35,830",0.254,57.76,61.92,"1,28,800",New York
+1322,1321,Other Management Occupations,"27,25,860",19.348,46.94,51.55,"1,07,230",New York
+1323,1322,"Farmers, Ranchers, and Other Agricultural Managers","5,220",0.037,35.12,37.71,"78,440",New York
+1324,1323,Construction Managers,"2,84,750",2.021,47.55,52.02,"1,08,210",New York
+1325,1324,Education and Childcare Administrators,"5,37,100",3.812,45.68,47.73,"99,280",New York
+1326,1325,"Education and Childcare Administrators, Preschool and Daycare","56,430",0.401,22.75,25.87,"53,800",New York
+1327,1326,"Education Administrators, Kindergarten through Secondary","2,74,710",1.95,30.64,37.64,"1,02,650",New York
+1328,1327,"Education Administrators, Postsecondary","1,55,990",1.107,46.59,53.49,"1,11,260",New York
+1329,1328,"Education Administrators, All Other","49,970",0.355,43.54,45.54,"94,730",New York
+1330,1329,Architectural and Engineering Managers,"1,87,100",1.328,73.25,76.43,"1,58,970",New York
+1331,1330,Food Service Managers,"2,10,680",1.495,28.58,30.75,"63,970",New York
+1332,1331,Entertainment and Recreation Managers,"21,460",0.152,30.42,36.75,"76,430",New York
+1333,1332,Gambling Managers,"3,660",0.026,36.98,42.88,"89,190",New York
+1334,1333,"Entertainment and Recreation Managers, Except Gambling","17,800",0.126,29.81,35.48,"73,810",New York
+1335,1334,Lodging Managers,"35,920",0.255,28.57,32.58,"67,770",Ohio
+1336,1335,Medical and Health Services Managers,"4,36,770",3.1,48.72,57.61,"1,19,840",Ohio
+1337,1336,Natural Sciences Managers,"74,760",0.531,66.3,75.05,"1,56,110",Ohio
+1338,1337,Postmasters and Mail Superintendents,"12,750",0.09,38.58,39.34,"81,820",Ohio
+1339,1338,"Property, Real Estate, and Community Association Managers","2,34,680",1.666,28.47,33.67,"70,030",Ohio
+1340,1339,Social and Community Service Managers,"1,56,400",1.11,35.58,36.92,"76,790",Ohio
+1341,1340,Emergency Management Directors,"10,320",0.073,36.89,40.77,"84,800",Ohio
+1342,1341,Personal Service Managers,"20,060",0.142,29.02,35.75,"74,360",Ohio
+1343,1342,Funeral Home Managers,"12,710",0.09,35.58,39.86,"82,900",Ohio
+1344,1343,"Personal Service Managers, All Other","7,350",0.052,29.02,28.65,"59,580",Ohio
+1345,1344,"Managers, All Other","4,97,890",3.534,59.93,62.36,"1,29,710",Ohio
+1346,1345,Business and Financial Operations Occupations,"90,53,790",64.263,36.81,39.72,"82,610",Ohio
+1347,1346,Accountant,"61,52,960",43.673,36.56,38.64,"80,380",Ohio
+1348,1347,Attorney,"12,480",0.089,37.7,55.97,"1,16,410",Ohio
+1349,1348,Truck Driver,"4,39,020",3.116,30.51,34.88,"72,540",Ohio
+1350,1349,Data Analyst,"2,89,580",2.055,31.11,34.06,"70,850",Ohio
+1351,1350,Management Consultant,"2,78,140",1.974,31.29,34.11,"70,960",Ohio
+1352,1351,Engineer,"11,430",0.081,30.13,32.78,"68,180",Ohio
+1353,1352,Teacher,"3,34,340",2.373,34.45,36.45,"75,810",Ohio
+1354,1353,Psychologist,"2,08,950",1.483,31.33,35.45,"73,740",Ohio
+1355,1354,Stock Broker,"8,05,080",5.714,30.04,34.24,"71,210",Ohio
+1356,1355,Electrician,"7,40,830",5.258,29.95,34,"70,720",Ohio
+1357,1356,Pilot,440,0.003,22.97,26.16,"54,400",Ohio
+1358,1357,Investment Banker,"63,810",0.453,37.03,37.05,"77,070",Ohio
+1359,1358,Financial Advisor,"9,33,180",6.624,39.43,45.45,"94,530",Ohio
+1360,1359,Police,"1,89,320",1.344,37.03,38.09,"79,230",Ohio
+1361,1360,Management Occupations,"89,09,910",63.242,49.25,59.31,"1,23,370",Ohio
+1362,1361,Top Executives,"32,29,990",22.926,47.46,57.94,"1,20,520",Ohio
+1363,1362,Chief Executives,"2,00,480",1.423,86.31,102.41,"2,13,020",Ohio
+1364,1363,General and Operations Managers,"29,84,920",21.187,47.1,55.41,"1,15,250",Ohio
+1365,1364,Legislators,"44,590",0.316,30.64,35.64,"57,110",Ohio
+1366,1365,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","8,38,050",5.948,61.62,69.77,"1,45,130",Ohio
+1367,1366,Advertising and Promotions Managers,"22,520",0.16,61.13,68.68,"1,42,860",Ohio
+1368,1367,Marketing and Sales Managers,"7,32,490",5.199,62.18,70.48,"1,46,600",Ohio
+1369,1368,Marketing Managers,"2,78,690",1.978,64.92,73.77,"1,53,440",Ohio
+1370,1369,Sales Managers,"4,53,800",3.221,61.3,68.46,"1,42,390",Ohio
+1371,1370,Public Relations and Fundraising Managers,"83,040",0.589,57.62,63.85,"1,32,800",Ohio
+1372,1371,Public Relations Managers,"59,850",0.425,60.47,66.35,"1,38,000",Ohio
+1373,1372,Fundraising Managers,"23,190",0.165,48.47,57.4,"1,19,400",Ohio
+1374,1373,Operations Specialties Managers,"21,16,020",15.019,61.13,67.26,"1,39,900",Ohio
+1375,1374,Administrative Services and Facilities Managers,"3,25,850",2.313,47.73,52.69,"1,09,590",Ohio
+1376,1375,Administrative Services Managers,"2,24,620",1.594,48.16,54.34,"1,13,030",Ohio
+1377,1376,Facilities Managers,"1,01,230",0.719,47.08,49.03,"1,01,970",Ohio
+1378,1377,Computer and Information Systems Managers,"4,85,190",3.444,76.45,78.33,"1,62,930",Ohio
+1379,1378,Financial Managers,"6,81,070",4.834,63.32,73.78,"1,53,460",Ohio
+1380,1379,Industrial Production Managers,"1,92,270",1.365,49.59,56.62,"1,17,780",Ohio
+1381,1380,Purchasing Managers,"69,310",0.492,61.13,64.71,"1,34,590",Ohio
+1382,1381,"Transportation, Storage, and Distribution Managers","1,44,640",1.027,47.22,50.76,"1,05,580",Ohio
+1383,1382,Compensation and Benefits Managers,"15,330",0.109,61.31,67.05,"1,39,470",Ohio
+1384,1383,Human Resources Managers,"1,66,530",1.182,60.69,65.67,"1,36,590",Ohio
+1385,1384,Training and Development Managers,"35,830",0.254,57.76,61.92,"1,28,800",Ohio
+1386,1385,Other Management Occupations,"27,25,860",19.348,46.94,51.55,"1,07,230",Ohio
+1387,1386,"Farmers, Ranchers, and Other Agricultural Managers","5,220",0.037,35.12,37.71,"78,440",Ohio
+1388,1387,Construction Managers,"2,84,750",2.021,47.55,52.02,"1,08,210",Ohio
+1389,1388,Education and Childcare Administrators,"5,37,100",3.812,45.68,47.73,"99,280",Ohio
+1390,1389,"Education and Childcare Administrators, Preschool and Daycare","56,430",0.401,22.75,25.87,"53,800",Ohio
+1391,1390,"Education Administrators, Kindergarten through Secondary","2,74,710",1.95,30.64,37.64,"1,02,650",Ohio
+1392,1391,"Education Administrators, Postsecondary","1,55,990",1.107,46.59,53.49,"1,11,260",Ohio
+1393,1392,"Education Administrators, All Other","49,970",0.355,43.54,45.54,"94,730",Ohio
+1394,1393,Architectural and Engineering Managers,"1,87,100",1.328,73.25,76.43,"1,58,970",Ohio
+1395,1394,Food Service Managers,"2,10,680",1.495,28.58,30.75,"63,970",Ohio
+1396,1395,Entertainment and Recreation Managers,"21,460",0.152,30.42,36.75,"76,430",Ohio
+1397,1396,Gambling Managers,"3,660",0.026,36.98,42.88,"89,190",Ohio
+1398,1397,"Entertainment and Recreation Managers, Except Gambling","17,800",0.126,29.81,35.48,"73,810",Ohio
+1399,1398,Lodging Managers,"35,920",0.255,28.57,32.58,"67,770",Ohio
+1400,1399,Medical and Health Services Managers,"4,36,770",3.1,48.72,57.61,"1,19,840",Texas
+1401,1400,Natural Sciences Managers,"74,760",0.531,66.3,75.05,"1,56,110",Texas
+1402,1401,Postmasters and Mail Superintendents,"12,750",0.09,38.58,39.34,"81,820",Texas
+1403,1402,"Property, Real Estate, and Community Association Managers","2,34,680",1.666,28.47,33.67,"70,030",Texas
+1404,1403,Social and Community Service Managers,"1,56,400",1.11,35.58,36.92,"76,790",Texas
+1405,1404,Emergency Management Directors,"10,320",0.073,36.89,40.77,"84,800",Texas
+1406,1405,Personal Service Managers,"20,060",0.142,29.02,35.75,"74,360",Texas
+1407,1406,Funeral Home Managers,"12,710",0.09,35.58,39.86,"82,900",Texas
+1408,1407,"Personal Service Managers, All Other","7,350",0.052,29.02,28.65,"59,580",Texas
+1409,1408,"Managers, All Other","4,97,890",3.534,59.93,62.36,"1,29,710",Texas
+1410,1409,Business and Financial Operations Occupations,"90,53,790",64.263,36.81,39.72,"82,610",Texas
+1411,1410,Accountant,"61,52,960",43.673,36.56,38.64,"80,380",Texas
+1412,1411,Attorney,"12,480",0.089,37.7,55.97,"1,16,410",Texas
+1413,1412,Truck Driver,"4,39,020",3.116,30.51,34.88,"72,540",Texas
+1414,1413,Data Analyst,"2,89,580",2.055,31.11,34.06,"70,850",Texas
+1415,1414,Management Consultant,"2,78,140",1.974,31.29,34.11,"70,960",Texas
+1416,1415,Engineer,"11,430",0.081,30.13,32.78,"68,180",Texas
+1417,1416,Teacher,"3,34,340",2.373,34.45,36.45,"75,810",Texas
+1418,1417,Psychologist,"2,08,950",1.483,31.33,35.45,"73,740",Texas
+1419,1418,Stock Broker,"8,05,080",5.714,30.04,34.24,"71,210",Texas
+1420,1419,Electrician,"7,40,830",5.258,29.95,34,"70,720",Texas
+1421,1420,Pilot,440,0.003,22.97,26.16,"54,400",Texas
+1422,1421,Investment Banker,"63,810",0.453,37.03,37.05,"77,070",Texas
+1423,1422,Financial Advisor,"9,33,180",6.624,39.43,45.45,"94,530",Texas
+1424,1423,Police,"1,89,320",1.344,37.03,38.09,"79,230",Texas
+1425,1424,Management Occupations,"89,09,910",63.242,49.25,59.31,"1,23,370",Texas
+1426,1425,Top Executives,"32,29,990",22.926,47.46,57.94,"1,20,520",Texas
+1427,1426,Chief Executives,"2,00,480",1.423,86.31,102.41,"2,13,020",Texas
+1428,1427,General and Operations Managers,"29,84,920",21.187,47.1,55.41,"1,15,250",Texas
+1429,1428,Legislators,"44,590",0.316,30.64,35.64,"57,110",Texas
+1430,1429,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","8,38,050",5.948,61.62,69.77,"1,45,130",Texas
+1431,1430,Advertising and Promotions Managers,"22,520",0.16,61.13,68.68,"1,42,860",Texas
+1432,1431,Marketing and Sales Managers,"7,32,490",5.199,62.18,70.48,"1,46,600",Texas
+1433,1432,Marketing Managers,"2,78,690",1.978,64.92,73.77,"1,53,440",Texas
+1434,1433,Sales Managers,"4,53,800",3.221,61.3,68.46,"1,42,390",Texas
+1435,1434,Public Relations and Fundraising Managers,"83,040",0.589,57.62,63.85,"1,32,800",Texas
+1436,1435,Public Relations Managers,"59,850",0.425,60.47,66.35,"1,38,000",Texas
+1437,1436,Fundraising Managers,"23,190",0.165,48.47,57.4,"1,19,400",Texas
+1438,1437,Operations Specialties Managers,"21,16,020",15.019,61.13,67.26,"1,39,900",Texas
+1439,1438,Administrative Services and Facilities Managers,"3,25,850",2.313,47.73,52.69,"1,09,590",Texas
+1440,1439,Administrative Services Managers,"2,24,620",1.594,48.16,54.34,"1,13,030",Texas
+1441,1440,Facilities Managers,"1,01,230",0.719,47.08,49.03,"1,01,970",Texas
+1442,1441,Computer and Information Systems Managers,"4,85,190",3.444,76.45,78.33,"1,62,930",Texas
+1443,1442,Financial Managers,"6,81,070",4.834,63.32,73.78,"1,53,460",Texas
+1444,1443,Industrial Production Managers,"1,92,270",1.365,49.59,56.62,"1,17,780",Texas
+1445,1444,Purchasing Managers,"69,310",0.492,61.13,64.71,"1,34,590",Texas
+1446,1445,"Transportation, Storage, and Distribution Managers","1,44,640",1.027,47.22,50.76,"1,05,580",Texas
+1447,1446,Compensation and Benefits Managers,"15,330",0.109,61.31,67.05,"1,39,470",Texas
+1448,1447,Human Resources Managers,"1,66,530",1.182,60.69,65.67,"1,36,590",Texas
+1449,1448,Training and Development Managers,"35,830",0.254,57.76,61.92,"1,28,800",Texas
+1450,1449,Other Management Occupations,"27,25,860",19.348,46.94,51.55,"1,07,230",Texas
+1451,1450,"Farmers, Ranchers, and Other Agricultural Managers","5,220",0.037,35.12,37.71,"78,440",Texas
+1452,1451,Construction Managers,"2,84,750",2.021,47.55,52.02,"1,08,210",Texas
+1453,1452,Education and Childcare Administrators,"5,37,100",3.812,45.68,47.73,"99,280",Texas
+1454,1453,"Education and Childcare Administrators, Preschool and Daycare","56,430",0.401,22.75,25.87,"53,800",Texas
+1455,1454,"Education Administrators, Kindergarten through Secondary","2,74,710",1.95,30.64,37.64,"1,02,650",Texas
+1456,1455,"Education Administrators, Postsecondary","1,55,990",1.107,46.59,53.49,"1,11,260",Texas
+1457,1456,"Education Administrators, All Other","49,970",0.355,43.54,45.54,"94,730",Texas
+1458,1457,Architectural and Engineering Managers,"1,87,100",1.328,73.25,76.43,"1,58,970",Texas
+1459,1458,Food Service Managers,"2,10,680",1.495,28.58,30.75,"63,970",Texas
+1460,1459,Entertainment and Recreation Managers,"21,460",0.152,30.42,36.75,"76,430",Texas
+1461,1460,Gambling Managers,"3,660",0.026,36.98,42.88,"89,190",Texas
+1462,1461,"Entertainment and Recreation Managers, Except Gambling","17,800",0.126,29.81,35.48,"73,810",Texas
+1463,1462,Lodging Managers,"35,920",0.255,28.57,32.58,"67,770",Texas
+1464,1463,Medical and Health Services Managers,"4,36,770",3.1,48.72,57.61,"1,19,840",Texas
+1465,1464,Natural Sciences Managers,"74,760",0.531,66.3,75.05,"1,56,110",Washington
+1466,1465,Postmasters and Mail Superintendents,"12,750",0.09,38.58,39.34,"81,820",Washington
+1467,1466,"Property, Real Estate, and Community Association Managers","2,34,680",1.666,28.47,33.67,"70,030",Washington
+1468,1467,Social and Community Service Managers,"1,56,400",1.11,35.58,36.92,"76,790",Washington
+1469,1468,Emergency Management Directors,"10,320",0.073,36.89,40.77,"84,800",Washington
+1470,1469,Personal Service Managers,"20,060",0.142,29.02,35.75,"74,360",Washington
+1471,1470,Funeral Home Managers,"12,710",0.09,35.58,39.86,"82,900",Washington
+1472,1471,"Personal Service Managers, All Other","7,350",0.052,29.02,28.65,"59,580",Washington
+1473,1472,"Managers, All Other","4,97,890",3.534,59.93,62.36,"1,29,710",Washington
+1474,1473,Business and Financial Operations Occupations,"90,53,790",64.263,36.81,39.72,"82,610",Washington
+1475,1474,Accountant,"61,52,960",43.673,36.56,38.64,"80,380",Washington
+1476,1475,Attorney,"12,480",0.089,37.7,55.97,"1,16,410",Washington
+1477,1476,Truck Driver,"4,39,020",3.116,30.51,34.88,"72,540",Washington
+1478,1477,Data Analyst,"2,89,580",2.055,31.11,34.06,"70,850",Washington
+1479,1478,Management Consultant,"2,78,140",1.974,31.29,34.11,"70,960",Washington
+1480,1479,Engineer,"11,430",0.081,30.13,32.78,"68,180",Washington
+1481,1480,Teacher,"3,34,340",2.373,34.45,36.45,"75,810",Washington
+1482,1481,Psychologist,"2,08,950",1.483,31.33,35.45,"73,740",Washington
+1483,1482,Stock Broker,"8,05,080",5.714,30.04,34.24,"71,210",Washington
+1484,1483,Electrician,"7,40,830",5.258,29.95,34,"70,720",Washington
+1485,1484,Pilot,440,0.003,22.97,26.16,"54,400",Washington
+1486,1485,Investment Banker,"63,810",0.453,37.03,37.05,"77,070",Washington
+1487,1486,Financial Advisor,"9,33,180",6.624,39.43,45.45,"94,530",Washington
+1488,1487,Police,"1,89,320",1.344,37.03,38.09,"79,230",Washington
+1489,1488,Management Occupations,"89,09,910",63.242,49.25,59.31,"1,23,370",Washington
+1490,1489,Top Executives,"32,29,990",22.926,47.46,57.94,"1,20,520",Washington
+1491,1490,Chief Executives,"2,00,480",1.423,86.31,102.41,"2,13,020",Washington
+1492,1491,General and Operations Managers,"29,84,920",21.187,47.1,55.41,"1,15,250",Washington
+1493,1492,Legislators,"44,590",0.316,30.64,35.64,"57,110",Washington
+1494,1493,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","8,38,050",5.948,61.62,69.77,"1,45,130",Washington
+1495,1494,Advertising and Promotions Managers,"22,520",0.16,61.13,68.68,"1,42,860",Washington
+1496,1495,Marketing and Sales Managers,"7,32,490",5.199,62.18,70.48,"1,46,600",Washington
+1497,1496,Marketing Managers,"2,78,690",1.978,64.92,73.77,"1,53,440",Washington
+1498,1497,Sales Managers,"4,53,800",3.221,61.3,68.46,"1,42,390",Washington
+1499,1498,Public Relations and Fundraising Managers,"83,040",0.589,57.62,63.85,"1,32,800",Washington
+1500,1499,Public Relations Managers,"59,850",0.425,60.47,66.35,"1,38,000",Washington
+1501,1500,Fundraising Managers,"23,190",0.165,48.47,57.4,"1,19,400",Washington
+1502,1501,Operations Specialties Managers,"21,16,020",15.019,61.13,67.26,"1,39,900",Washington
+1503,1502,Administrative Services and Facilities Managers,"3,25,850",2.313,47.73,52.69,"1,09,590",Washington
+1504,1503,Administrative Services Managers,"2,24,620",1.594,48.16,54.34,"1,13,030",Washington
+1505,1504,Facilities Managers,"1,01,230",0.719,47.08,49.03,"1,01,970",Washington
+1506,1505,Computer and Information Systems Managers,"4,85,190",3.444,76.45,78.33,"1,62,930",Washington
+1507,1506,Financial Managers,"6,81,070",4.834,63.32,73.78,"1,53,460",Washington
+1508,1507,Industrial Production Managers,"1,92,270",1.365,49.59,56.62,"1,17,780",Washington
+1509,1508,Purchasing Managers,"69,310",0.492,61.13,64.71,"1,34,590",Washington
+1510,1509,"Transportation, Storage, and Distribution Managers","1,44,640",1.027,47.22,50.76,"1,05,580",Washington
+1511,1510,Compensation and Benefits Managers,"15,330",0.109,61.31,67.05,"1,39,470",Washington
+1512,1511,Human Resources Managers,"1,66,530",1.182,60.69,65.67,"1,36,590",Washington
+1513,1512,Training and Development Managers,"35,830",0.254,57.76,61.92,"1,28,800",Washington
+1514,1513,Other Management Occupations,"27,25,860",19.348,46.94,51.55,"1,07,230",Washington
+1515,1514,"Farmers, Ranchers, and Other Agricultural Managers","5,220",0.037,35.12,37.71,"78,440",Washington
+1516,1515,Construction Managers,"2,84,750",2.021,47.55,52.02,"1,08,210",Washington
+1517,1516,Education and Childcare Administrators,"5,37,100",3.812,45.68,47.73,"99,280",Washington
+1518,1517,"Education and Childcare Administrators, Preschool and Daycare","56,430",0.401,22.75,25.87,"53,800",Washington
+1519,1518,"Education Administrators, Kindergarten through Secondary","2,74,710",1.95,30.64,37.64,"1,02,650",Washington
+1520,1519,"Education Administrators, Postsecondary","1,55,990",1.107,46.59,53.49,"1,11,260",Washington
+1521,1520,"Education Administrators, All Other","49,970",0.355,43.54,45.54,"94,730",Washington
+1522,1521,Architectural and Engineering Managers,"1,87,100",1.328,73.25,76.43,"1,58,970",Washington
+1523,1522,Food Service Managers,"2,10,680",1.495,28.58,30.75,"63,970",Washington
+1524,1523,Entertainment and Recreation Managers,"21,460",0.152,30.42,36.75,"76,430",Washington
+1525,1524,Gambling Managers,"3,660",0.026,36.98,42.88,"89,190",Washington
+1526,1525,"Entertainment and Recreation Managers, Except Gambling","17,800",0.126,29.81,35.48,"73,810",Washington
+1527,1526,Lodging Managers,"35,920",0.255,28.57,32.58,"67,770",Washington
+1528,1527,Medical and Health Services Managers,"4,36,770",3.1,48.72,57.61,"1,19,840",Washington
+1529,1528,Natural Sciences Managers,"74,760",0.531,66.3,75.05,"1,56,110",Washington
+1530,1529,Postmasters and Mail Superintendents,"12,750",0.09,38.58,39.34,"81,820",Wisconsin
+1531,1530,"Property, Real Estate, and Community Association Managers","2,34,680",1.666,28.47,33.67,"70,030",Wisconsin
+1532,1531,Social and Community Service Managers,"1,56,400",1.11,35.58,36.92,"76,790",Wisconsin
+1533,1532,Emergency Management Directors,"10,320",0.073,36.89,40.77,"84,800",Wisconsin
+1534,1533,Personal Service Managers,"20,060",0.142,29.02,35.75,"74,360",Wisconsin
+1535,1534,Funeral Home Managers,"12,710",0.09,35.58,39.86,"82,900",Wisconsin
+1536,1535,"Personal Service Managers, All Other","7,350",0.052,29.02,28.65,"59,580",Wisconsin
+1537,1536,"Managers, All Other","4,97,890",3.534,59.93,62.36,"1,29,710",Wisconsin
+1538,1537,Business and Financial Operations Occupations,"90,53,790",64.263,36.81,39.72,"82,610",Wisconsin
+1539,1538,Accountant,"61,52,960",43.673,36.56,38.64,"80,380",Wisconsin
+1540,1539,Attorney,"12,480",0.089,37.7,55.97,"1,16,410",Wisconsin
+1541,1540,Truck Driver,"4,39,020",3.116,30.51,34.88,"72,540",Wisconsin
+1542,1541,Data Analyst,"2,89,580",2.055,31.11,34.06,"70,850",Wisconsin
+1543,1542,Management Consultant,"2,78,140",1.974,31.29,34.11,"70,960",Wisconsin
+1544,1543,Engineer,"11,430",0.081,30.13,32.78,"68,180",Wisconsin
+1545,1544,Teacher,"3,34,340",2.373,34.45,36.45,"75,810",Wisconsin
+1546,1545,Psychologist,"2,08,950",1.483,31.33,35.45,"73,740",Wisconsin
+1547,1546,Stock Broker,"8,05,080",5.714,30.04,34.24,"71,210",Wisconsin
+1548,1547,Electrician,"7,40,830",5.258,29.95,34,"70,720",Wisconsin
+1549,1548,Pilot,440,0.003,22.97,26.16,"54,400",Wisconsin
+1550,1549,Investment Banker,"63,810",0.453,37.03,37.05,"77,070",Wisconsin
+1551,1550,Financial Advisor,"9,33,180",6.624,39.43,45.45,"94,530",Wisconsin
+1552,1551,Police,"1,89,320",1.344,37.03,38.09,"79,230",Wisconsin
